@@ -98,3 +98,7 @@ python ransomware_sim.py
 📝 Make sure your `test_dir/` contains sample files before simulation.
 
 ```
+## 🎥 Demo
+
+![Alert Demo](images/alert-demo.gif)
+
