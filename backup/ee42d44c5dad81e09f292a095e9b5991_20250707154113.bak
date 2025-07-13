@@ -1,0 +1,14 @@
+import os
+
+backup_dir = "../backup"  # Adjust path if needed
+backup_dir = os.path.abspath(backup_dir)
+
+files = os.listdir(backup_dir)
+bak_files = [f for f in files if f.endswith(".bak")]
+
+for bak in bak_files:
+    metadata_file = bak + ".json"
+    if metadata_file not in files:
+        path_to_delete = os.path.join(backup_dir, bak)
+        print(f"Deleting orphan backup file: {path_to_delete}")
+        os.remove(path_to_delete)

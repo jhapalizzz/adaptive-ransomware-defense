@@ -1,0 +1,1542 @@
+2025-07-06 15:24:03,316 - Deleted: test_dir
+2025-07-06 15:25:41,405 - Deleted: test_dir
+2025-07-06 15:32:51,551 - Deleted: test_dir
+2025-07-06 15:33:42,285 - Deleted: test_dir
+2025-07-06 15:45:45,937 - Created: test_dir\file1.txt
+2025-07-06 15:45:45,941 - Modified: test_dir\file1.txt
+2025-07-06 15:45:45,942 - Created: test_dir\file2.txt
+2025-07-06 15:45:45,944 - Modified: test_dir\file2.txt
+2025-07-06 15:45:45,945 - Created: test_dir\file3.txt
+2025-07-06 15:45:45,949 - Modified: test_dir\file3.txt
+2025-07-06 15:45:45,952 - Created: test_dir\file4.txt
+2025-07-06 15:45:45,953 - Modified: test_dir\file4.txt
+2025-07-06 15:45:45,954 - Created: test_dir\file5.txt
+2025-07-06 15:45:45,956 - Modified: test_dir\file5.txt
+2025-07-06 15:45:45,957 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,960 - Created: test_dir\file6.txt
+2025-07-06 15:45:45,960 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,961 - Modified: test_dir\file6.txt
+2025-07-06 15:45:45,961 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,963 - Created: test_dir\file7.txt
+2025-07-06 15:45:45,963 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,965 - Modified: test_dir\file7.txt
+2025-07-06 15:45:45,965 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,966 - Created: test_dir\file8.txt
+2025-07-06 15:45:45,966 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,967 - Modified: test_dir\file8.txt
+2025-07-06 15:45:45,968 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,969 - Created: test_dir\file9.txt
+2025-07-06 15:45:45,969 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,970 - Modified: test_dir\file9.txt
+2025-07-06 15:45:45,970 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,971 - Created: test_dir\file10.txt
+2025-07-06 15:45:45,972 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,973 - Modified: test_dir\file10.txt
+2025-07-06 15:45:45,973 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,975 - Created: test_dir\file11.txt
+2025-07-06 15:45:45,975 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,976 - Modified: test_dir\file11.txt
+2025-07-06 15:45:45,976 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,978 - Created: test_dir\file12.txt
+2025-07-06 15:45:45,978 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,980 - Modified: test_dir\file12.txt
+2025-07-06 15:45:45,980 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,982 - Created: test_dir\file13.txt
+2025-07-06 15:45:45,982 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,983 - Modified: test_dir\file13.txt
+2025-07-06 15:45:45,984 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,985 - Created: test_dir\file14.txt
+2025-07-06 15:45:45,985 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:45:45,988 - Modified: test_dir\file14.txt
+2025-07-06 15:45:45,988 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,130 - Renamed: from test_dir\file1.txt to test_dir\filea.txt
+2025-07-06 15:46:00,131 - Modified: test_dir\filea.txt
+2025-07-06 15:46:00,133 - Renamed: from test_dir\file2.txt to test_dir\fileb.txt
+2025-07-06 15:46:00,133 - Modified: test_dir\fileb.txt
+2025-07-06 15:46:00,135 - Renamed: from test_dir\file3.txt to test_dir\filec.txt
+2025-07-06 15:46:00,136 - Modified: test_dir\filec.txt
+2025-07-06 15:46:00,138 - Renamed: from test_dir\file4.txt to test_dir\filed.txt
+2025-07-06 15:46:00,138 - Modified: test_dir\filed.txt
+2025-07-06 15:46:00,140 - Renamed: from test_dir\file5.txt to test_dir\filee.txt
+2025-07-06 15:46:00,141 - Modified: test_dir\filee.txt
+2025-07-06 15:46:00,141 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,143 - Renamed: from test_dir\file6.txt to test_dir\filef.txt
+2025-07-06 15:46:00,144 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,145 - Modified: test_dir\filef.txt
+2025-07-06 15:46:00,145 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,148 - Renamed: from test_dir\file7.txt to test_dir\fileg.txt
+2025-07-06 15:46:00,148 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,148 - Modified: test_dir\fileg.txt
+2025-07-06 15:46:00,148 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,150 - Renamed: from test_dir\file8.txt to test_dir\fileh.txt
+2025-07-06 15:46:00,150 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,151 - Modified: test_dir\fileh.txt
+2025-07-06 15:46:00,151 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,153 - Renamed: from test_dir\file9.txt to test_dir\filei.txt
+2025-07-06 15:46:00,153 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,153 - Modified: test_dir\filei.txt
+2025-07-06 15:46:00,153 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,155 - Renamed: from test_dir\file10.txt to test_dir\filej.txt
+2025-07-06 15:46:00,156 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,156 - Modified: test_dir\filej.txt
+2025-07-06 15:46:00,156 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,160 - Renamed: from test_dir\file11.txt to test_dir\filek.txt
+2025-07-06 15:46:00,160 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,160 - Modified: test_dir\filek.txt
+2025-07-06 15:46:00,161 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,165 - Renamed: from test_dir\file12.txt to test_dir\filel.txt
+2025-07-06 15:46:00,165 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,165 - Modified: test_dir\filel.txt
+2025-07-06 15:46:00,166 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,168 - Renamed: from test_dir\file13.txt to test_dir\filem.txt
+2025-07-06 15:46:00,168 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,168 - Modified: test_dir\filem.txt
+2025-07-06 15:46:00,169 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,171 - Renamed: from test_dir\file14.txt to test_dir\filen.txt
+2025-07-06 15:46:00,171 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:00,172 - Modified: test_dir\filen.txt
+2025-07-06 15:46:00,172 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:07,526 - Deleted: test_dir\filea.txt
+2025-07-06 15:46:07,531 - Deleted: test_dir\fileb.txt
+2025-07-06 15:46:07,534 - Deleted: test_dir\filec.txt
+2025-07-06 15:46:07,536 - Deleted: test_dir\filed.txt
+2025-07-06 15:46:07,538 - Deleted: test_dir\filee.txt
+2025-07-06 15:46:07,540 - Deleted: test_dir\filef.txt
+2025-07-06 15:46:07,542 - Deleted: test_dir\fileg.txt
+2025-07-06 15:46:07,545 - Deleted: test_dir\fileh.txt
+2025-07-06 15:46:07,549 - Deleted: test_dir\filei.txt
+2025-07-06 15:46:07,551 - Deleted: test_dir\filej.txt
+2025-07-06 15:46:07,551 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:07,553 - Deleted: test_dir\filek.txt
+2025-07-06 15:46:07,553 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:07,555 - Deleted: test_dir\filel.txt
+2025-07-06 15:46:07,555 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:07,557 - Deleted: test_dir\filem.txt
+2025-07-06 15:46:07,557 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:07,560 - Deleted: test_dir\filen.txt
+2025-07-06 15:46:07,561 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,872 - Created: test_dir\file1.txt
+2025-07-06 15:46:23,873 - Modified: test_dir\file1.txt
+2025-07-06 15:46:23,874 - Created: test_dir\file2.txt
+2025-07-06 15:46:23,876 - Modified: test_dir\file2.txt
+2025-07-06 15:46:23,877 - Created: test_dir\file3.txt
+2025-07-06 15:46:23,881 - Modified: test_dir\file3.txt
+2025-07-06 15:46:23,883 - Created: test_dir\file4.txt
+2025-07-06 15:46:23,884 - Modified: test_dir\file4.txt
+2025-07-06 15:46:23,886 - Created: test_dir\file5.txt
+2025-07-06 15:46:23,891 - Modified: test_dir\file5.txt
+2025-07-06 15:46:23,892 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,893 - Created: test_dir\file6.txt
+2025-07-06 15:46:23,893 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,896 - Modified: test_dir\file6.txt
+2025-07-06 15:46:23,896 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,896 - Created: test_dir\file7.txt
+2025-07-06 15:46:23,897 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,901 - Modified: test_dir\file7.txt
+2025-07-06 15:46:23,901 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,904 - Created: test_dir\file8.txt
+2025-07-06 15:46:23,904 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,905 - Modified: test_dir\file8.txt
+2025-07-06 15:46:23,905 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,906 - Modified: test_dir\file8.txt
+2025-07-06 15:46:23,906 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,906 - Created: test_dir\file9.txt
+2025-07-06 15:46:23,907 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,910 - Modified: test_dir\file9.txt
+2025-07-06 15:46:23,911 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,912 - Created: test_dir\file10.txt
+2025-07-06 15:46:23,912 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,915 - Modified: test_dir\file10.txt
+2025-07-06 15:46:23,916 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,917 - Created: test_dir\file11.txt
+2025-07-06 15:46:23,917 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,923 - Modified: test_dir\file11.txt
+2025-07-06 15:46:23,923 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,924 - Created: test_dir\file12.txt
+2025-07-06 15:46:23,924 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,930 - Modified: test_dir\file12.txt
+2025-07-06 15:46:23,930 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,930 - Created: test_dir\file13.txt
+2025-07-06 15:46:23,931 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,933 - Modified: test_dir\file13.txt
+2025-07-06 15:46:23,933 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,934 - Created: test_dir\file14.txt
+2025-07-06 15:46:23,934 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:23,935 - Modified: test_dir\file14.txt
+2025-07-06 15:46:23,935 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,573 - Renamed: from test_dir\file1.txt to test_dir\filea.txt
+2025-07-06 15:46:32,574 - Modified: test_dir\filea.txt
+2025-07-06 15:46:32,578 - Renamed: from test_dir\file2.txt to test_dir\fileb.txt
+2025-07-06 15:46:32,578 - Modified: test_dir\fileb.txt
+2025-07-06 15:46:32,581 - Renamed: from test_dir\file3.txt to test_dir\filec.txt
+2025-07-06 15:46:32,582 - Modified: test_dir\filec.txt
+2025-07-06 15:46:32,585 - Renamed: from test_dir\file4.txt to test_dir\filed.txt
+2025-07-06 15:46:32,585 - Modified: test_dir\filed.txt
+2025-07-06 15:46:32,588 - Renamed: from test_dir\file5.txt to test_dir\filee.txt
+2025-07-06 15:46:32,588 - Modified: test_dir\filee.txt
+2025-07-06 15:46:32,589 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,594 - Renamed: from test_dir\file6.txt to test_dir\filef.txt
+2025-07-06 15:46:32,594 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,594 - Modified: test_dir\filef.txt
+2025-07-06 15:46:32,595 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,598 - Renamed: from test_dir\file7.txt to test_dir\fileg.txt
+2025-07-06 15:46:32,598 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,599 - Modified: test_dir\fileg.txt
+2025-07-06 15:46:32,599 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,601 - Renamed: from test_dir\file8.txt to test_dir\fileh.txt
+2025-07-06 15:46:32,601 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,601 - Modified: test_dir\fileh.txt
+2025-07-06 15:46:32,601 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,605 - Renamed: from test_dir\file9.txt to test_dir\filei.txt
+2025-07-06 15:46:32,605 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,606 - Modified: test_dir\filei.txt
+2025-07-06 15:46:32,606 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,610 - Renamed: from test_dir\file10.txt to test_dir\filej.txt
+2025-07-06 15:46:32,610 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,611 - Modified: test_dir\filej.txt
+2025-07-06 15:46:32,611 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,615 - Renamed: from test_dir\file11.txt to test_dir\filek.txt
+2025-07-06 15:46:32,615 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,615 - Modified: test_dir\filek.txt
+2025-07-06 15:46:32,616 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,617 - Renamed: from test_dir\file12.txt to test_dir\filel.txt
+2025-07-06 15:46:32,618 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,618 - Modified: test_dir\filel.txt
+2025-07-06 15:46:32,618 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,620 - Renamed: from test_dir\file13.txt to test_dir\filem.txt
+2025-07-06 15:46:32,620 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,620 - Modified: test_dir\filem.txt
+2025-07-06 15:46:32,620 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,622 - Renamed: from test_dir\file14.txt to test_dir\filen.txt
+2025-07-06 15:46:32,622 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:32,622 - Modified: test_dir\filen.txt
+2025-07-06 15:46:32,623 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:38,504 - Deleted: test_dir\filea.txt
+2025-07-06 15:46:38,507 - Deleted: test_dir\fileb.txt
+2025-07-06 15:46:38,510 - Deleted: test_dir\filec.txt
+2025-07-06 15:46:38,513 - Deleted: test_dir\filed.txt
+2025-07-06 15:46:38,516 - Deleted: test_dir\filee.txt
+2025-07-06 15:46:38,521 - Deleted: test_dir\filef.txt
+2025-07-06 15:46:38,525 - Deleted: test_dir\fileg.txt
+2025-07-06 15:46:38,528 - Deleted: test_dir\fileh.txt
+2025-07-06 15:46:38,532 - Deleted: test_dir\filei.txt
+2025-07-06 15:46:38,534 - Deleted: test_dir\filej.txt
+2025-07-06 15:46:38,534 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:38,539 - Deleted: test_dir\filek.txt
+2025-07-06 15:46:38,539 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:38,541 - Deleted: test_dir\filel.txt
+2025-07-06 15:46:38,542 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:38,544 - Deleted: test_dir\filem.txt
+2025-07-06 15:46:38,544 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:38,546 - Deleted: test_dir\filen.txt
+2025-07-06 15:46:38,546 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,365 - Created: test_dir\file1.txt
+2025-07-06 15:46:47,366 - Modified: test_dir\file1.txt
+2025-07-06 15:46:47,368 - Created: test_dir\file2.txt
+2025-07-06 15:46:47,369 - Modified: test_dir\file2.txt
+2025-07-06 15:46:47,371 - Created: test_dir\file3.txt
+2025-07-06 15:46:47,372 - Modified: test_dir\file3.txt
+2025-07-06 15:46:47,376 - Created: test_dir\file4.txt
+2025-07-06 15:46:47,380 - Modified: test_dir\file4.txt
+2025-07-06 15:46:47,382 - Created: test_dir\file5.txt
+2025-07-06 15:46:47,384 - Modified: test_dir\file5.txt
+2025-07-06 15:46:47,384 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,386 - Created: test_dir\file6.txt
+2025-07-06 15:46:47,386 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,388 - Modified: test_dir\file6.txt
+2025-07-06 15:46:47,388 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,389 - Created: test_dir\file7.txt
+2025-07-06 15:46:47,389 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,392 - Modified: test_dir\file7.txt
+2025-07-06 15:46:47,392 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,395 - Created: test_dir\file8.txt
+2025-07-06 15:46:47,395 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,398 - Modified: test_dir\file8.txt
+2025-07-06 15:46:47,398 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,400 - Created: test_dir\file9.txt
+2025-07-06 15:46:47,400 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,401 - Modified: test_dir\file9.txt
+2025-07-06 15:46:47,401 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,403 - Created: test_dir\file10.txt
+2025-07-06 15:46:47,403 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,404 - Modified: test_dir\file10.txt
+2025-07-06 15:46:47,405 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,406 - Created: test_dir\file11.txt
+2025-07-06 15:46:47,406 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,407 - Modified: test_dir\file11.txt
+2025-07-06 15:46:47,408 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,411 - Created: test_dir\file12.txt
+2025-07-06 15:46:47,411 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,414 - Modified: test_dir\file12.txt
+2025-07-06 15:46:47,414 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,416 - Created: test_dir\file13.txt
+2025-07-06 15:46:47,416 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,421 - Modified: test_dir\file13.txt
+2025-07-06 15:46:47,422 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,424 - Created: test_dir\file14.txt
+2025-07-06 15:46:47,424 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:47,428 - Modified: test_dir\file14.txt
+2025-07-06 15:46:47,428 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,811 - Renamed: from test_dir\file1.txt to test_dir\filea.txt
+2025-07-06 15:46:53,812 - Modified: test_dir\filea.txt
+2025-07-06 15:46:53,814 - Renamed: from test_dir\file2.txt to test_dir\fileb.txt
+2025-07-06 15:46:53,814 - Modified: test_dir\fileb.txt
+2025-07-06 15:46:53,817 - Renamed: from test_dir\file3.txt to test_dir\filec.txt
+2025-07-06 15:46:53,817 - Modified: test_dir\filec.txt
+2025-07-06 15:46:53,822 - Renamed: from test_dir\file4.txt to test_dir\filed.txt
+2025-07-06 15:46:53,822 - Modified: test_dir\filed.txt
+2025-07-06 15:46:53,851 - Renamed: from test_dir\file5.txt to test_dir\filee.txt
+2025-07-06 15:46:53,858 - Modified: test_dir\filee.txt
+2025-07-06 15:46:53,858 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,863 - Renamed: from test_dir\file6.txt to test_dir\filef.txt
+2025-07-06 15:46:53,863 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,864 - Modified: test_dir\filef.txt
+2025-07-06 15:46:53,864 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,866 - Renamed: from test_dir\file7.txt to test_dir\fileg.txt
+2025-07-06 15:46:53,866 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,867 - Modified: test_dir\fileg.txt
+2025-07-06 15:46:53,867 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,870 - Renamed: from test_dir\file8.txt to test_dir\fileh.txt
+2025-07-06 15:46:53,870 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,871 - Modified: test_dir\fileh.txt
+2025-07-06 15:46:53,871 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,873 - Renamed: from test_dir\file9.txt to test_dir\filei.txt
+2025-07-06 15:46:53,874 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,874 - Modified: test_dir\filei.txt
+2025-07-06 15:46:53,874 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,876 - Renamed: from test_dir\file10.txt to test_dir\filej.txt
+2025-07-06 15:46:53,876 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,877 - Modified: test_dir\filej.txt
+2025-07-06 15:46:53,877 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,879 - Renamed: from test_dir\file11.txt to test_dir\filek.txt
+2025-07-06 15:46:53,879 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,880 - Modified: test_dir\filek.txt
+2025-07-06 15:46:53,880 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,882 - Renamed: from test_dir\file12.txt to test_dir\filel.txt
+2025-07-06 15:46:53,882 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,883 - Modified: test_dir\filel.txt
+2025-07-06 15:46:53,883 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,885 - Renamed: from test_dir\file13.txt to test_dir\filem.txt
+2025-07-06 15:46:53,885 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,886 - Modified: test_dir\filem.txt
+2025-07-06 15:46:53,886 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,887 - Renamed: from test_dir\file14.txt to test_dir\filen.txt
+2025-07-06 15:46:53,887 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:46:53,888 - Modified: test_dir\filen.txt
+2025-07-06 15:46:53,888 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:47:01,653 - Deleted: test_dir\filea.txt
+2025-07-06 15:47:01,656 - Deleted: test_dir\fileb.txt
+2025-07-06 15:47:01,662 - Deleted: test_dir\filec.txt
+2025-07-06 15:47:01,665 - Deleted: test_dir\filed.txt
+2025-07-06 15:47:01,668 - Deleted: test_dir\filee.txt
+2025-07-06 15:47:01,671 - Deleted: test_dir\filef.txt
+2025-07-06 15:47:01,678 - Deleted: test_dir\fileg.txt
+2025-07-06 15:47:01,681 - Deleted: test_dir\fileh.txt
+2025-07-06 15:47:01,684 - Deleted: test_dir\filei.txt
+2025-07-06 15:47:01,686 - Deleted: test_dir\filej.txt
+2025-07-06 15:47:01,686 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:47:01,689 - Deleted: test_dir\filek.txt
+2025-07-06 15:47:01,690 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:47:01,693 - Deleted: test_dir\filel.txt
+2025-07-06 15:47:01,693 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:47:01,695 - Deleted: test_dir\filem.txt
+2025-07-06 15:47:01,696 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 15:47:01,697 - Deleted: test_dir\filen.txt
+2025-07-06 15:47:01,697 - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-06 17:07:30,316 - Renamed: from test_dir\dummyfile.txt to test_dir\file_0_locked.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file1.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file2.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file3.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file4.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file5.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file6.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file7.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file8.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file9.txt
+2025-07-07 12:24:51 - INFO - Created: test_dir\file10.txt
+2025-07-07 12:24:51 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-07 12:24:51 - WARNING - Killing suspicious process: python.exe (PID: 9868)
+2025-07-07 12:36:57 - INFO - Deleted: test_dir\dummyfile1.txt
+2025-07-07 12:36:57 - INFO - Deleted: test_dir\file_0_locked.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file1.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file2.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file3.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file4.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file6.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file5.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file7.txt
+2025-07-07 12:36:58 - INFO - Deleted: test_dir\file8.txt
+2025-07-07 12:36:58 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-07 12:36:59 - WARNING - Killing suspicious process: python.exe (PID: 7140)
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Created: test_dir\file1.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Modified: test_dir\file1.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Created: test_dir\file2.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Modified: test_dir\file2.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Created: test_dir\file3.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Modified: test_dir\file3.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Created: test_dir\file4.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Modified: test_dir\file4.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Created: test_dir\file5.txt
+2025-07-07 14:06:17 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707140617.bak
+2025-07-07 14:06:17 - INFO - Modified: test_dir\file5.txt
+2025-07-07 14:06:17 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-07 14:06:18 - WARNING - Killing suspicious process: python.exe (PID: 8400)
+2025-07-07 15:16:44 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707151644.bak
+2025-07-07 15:16:44 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:16:44 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707151644.bak
+2025-07-07 15:16:44 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:16:44 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707151644.bak
+2025-07-07 15:16:44 - INFO - Modified: test_dir\file2.txt
+2025-07-07 15:16:44 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707151644.bak
+2025-07-07 15:16:44 - INFO - Modified: test_dir\file3.txt
+2025-07-07 15:16:44 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707151644.bak
+2025-07-07 15:16:44 - INFO - Modified: test_dir\file4.txt
+2025-07-07 15:16:44 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707151644.bak
+2025-07-07 15:16:45 - INFO - Modified: test_dir\file4.txt
+2025-07-07 15:16:45 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707151644.bak
+2025-07-07 15:16:45 - INFO - Modified: test_dir\file5.txt
+2025-07-07 15:16:45 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707151644.bak
+2025-07-07 15:16:45 - INFO - Modified: test_dir\file5.txt
+2025-07-07 15:16:45 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250707151645.bak
+2025-07-07 15:16:45 - INFO - Modified: test_dir\file6.txt
+2025-07-07 15:16:45 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250707151645.bak
+2025-07-07 15:16:45 - INFO - Modified: test_dir\file7.txt
+2025-07-07 15:16:45 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-07 15:16:45 - WARNING - Killing suspicious process: python.exe (PID: 10204)
+2025-07-07 15:25:01 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707152501.bak
+2025-07-07 15:25:01 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:25:01 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707152501.bak
+2025-07-07 15:25:01 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:25:01 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707152501.bak
+2025-07-07 15:25:01 - INFO - Modified: test_dir\file2.txt
+2025-07-07 15:25:01 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707152501.bak
+2025-07-07 15:25:01 - INFO - Modified: test_dir\file2.txt
+2025-07-07 15:25:01 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707152501.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file3.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file4.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file5.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file6.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file7.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file8.txt
+2025-07-07 15:25:02 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-07 15:25:02 - INFO - Starting file recovery from backups...
+2025-07-07 15:25:02 - INFO - Restoring ../backup\113f6696d140c167070bcc5e24791f35_20250707152501.bak \u2192 test_dir\file3.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\273604bfeef7126abe1f9bff1e45126c_20250707152501.bak \u2192 test_dir\file2.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250707152502.bak \u2192 test_dir\file7.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\680183fde8fdfa76b041692bce98960b_20250707152502.bak \u2192 test_dir\file6.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\950937a257793a2c068bd13ecfcee6b3_20250707152502.bak \u2192 test_dir\file5.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707152501.bak \u2192 test_dir\file1.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\c474a02b4b89880c88f06bb48c362cda_20250707152502.bak \u2192 test_dir\file4.txt
+2025-07-07 15:25:02 - INFO - Restoring ../backup\fe5c7909d5f81a608145fc151531374d_20250707152502.bak \u2192 test_dir\file8.txt
+2025-07-07 15:25:02 - INFO - Recovery complete.
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file9.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file10.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file11.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file12.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file13.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file14.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file3.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file2.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file7.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file6.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file5.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file4.txt
+2025-07-07 15:25:02 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250707152502.bak
+2025-07-07 15:25:02 - INFO - Modified: test_dir\file8.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file1.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file2.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file2.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file3.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file3.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file4.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file4.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file5.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file5.txt
+2025-07-07 15:34:15 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-07 15:34:15 - INFO - Starting file recovery from backups...
+2025-07-07 15:34:15 - INFO - Restoring ../backup\c474a02b4b89880c88f06bb48c362cda_20250707153415.bak \u2192 test_dir/file4.txt
+2025-07-07 15:34:15 - INFO - Restoring ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707153415.bak \u2192 test_dir/file1.txt
+2025-07-07 15:34:15 - INFO - Restoring ../backup\950937a257793a2c068bd13ecfcee6b3_20250707153415.bak \u2192 test_dir/file5.txt
+2025-07-07 15:34:15 - INFO - Restoring ../backup\273604bfeef7126abe1f9bff1e45126c_20250707153415.bak \u2192 test_dir/file2.txt
+2025-07-07 15:34:15 - INFO - Restoring ../backup\113f6696d140c167070bcc5e24791f35_20250707153415.bak \u2192 test_dir/file3.txt
+2025-07-07 15:34:15 - INFO - Recovery complete.
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file6.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file6.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file7.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file7.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file8.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file8.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file9.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file9.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file10.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file10.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file11.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file11.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file12.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file12.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file13.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file13.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Created: test_dir\file14.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file14.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file4.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file1.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file5.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file2.txt
+2025-07-07 15:34:15 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250707153415.bak with metadata
+2025-07-07 15:34:15 - INFO - Modified: test_dir\file3.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file1.txt to test_dir\filea.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filea.txt \u2192 ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filea.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file2.txt to test_dir\fileb.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\fileb.txt \u2192 ../backup\8ad0b77f48296f515082a3ae930f36ee_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\fileb.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file3.txt to test_dir\filec.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filec.txt \u2192 ../backup\13468786123b11d0a2d0ef26711b4861_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filec.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file4.txt to test_dir\filed.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filed.txt \u2192 ../backup\7719a64c58825a854b0bea5c72b14e0a_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filed.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file5.txt to test_dir\filee.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filee.txt \u2192 ../backup\5af23ec64b744e7598dee09e5ef322d9_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filee.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file6.txt to test_dir\filef.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filef.txt \u2192 ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filef.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file7.txt to test_dir\fileg.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\fileg.txt \u2192 ../backup\725484327727b8fc84d33914f4f3177e_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\fileg.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file8.txt to test_dir\fileh.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\fileh.txt \u2192 ../backup\697b66fe82b7ec776cafe218bc6e5482_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\fileh.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file9.txt to test_dir\filei.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filei.txt \u2192 ../backup\64c598651d3b09291a73e8c0225a5e6c_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filei.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file10.txt to test_dir\filej.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filej.txt \u2192 ../backup\eac52acd6466b8becffb0d2aa28a7548_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filej.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file11.txt to test_dir\filek.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filek.txt \u2192 ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filek.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file12.txt to test_dir\filel.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filel.txt \u2192 ../backup\17fba291f428445f7ec51de35030f2ea_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filel.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file13.txt to test_dir\filem.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filem.txt \u2192 ../backup\857052115e2202f002a73fe0225b4b4f_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filem.txt
+2025-07-07 15:34:23 - INFO - Renamed: from test_dir\file14.txt to test_dir\filen.txt
+2025-07-07 15:34:23 - INFO - \U0001f4e6 Backed up: test_dir\filen.txt \u2192 ../backup\4a265fad4ef011c6fedc985415cb4b59_20250707153423.bak with metadata
+2025-07-07 15:34:23 - INFO - Modified: test_dir\filen.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filea.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\fileb.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filec.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filed.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filee.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filef.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\fileg.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\fileh.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filei.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filej.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filek.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filel.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filem.txt
+2025-07-07 15:34:31 - INFO - Deleted: test_dir\filen.txt
+2025-07-07 15:41:00 - INFO - \U0001f4e6 Backed up: test_dir\clean_backups.py \u2192 ../backup\ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak with metadata
+2025-07-07 15:41:00 - INFO - Created: test_dir\clean_backups.py
+2025-07-07 15:41:13 - INFO - \U0001f4e6 Backed up: test_dir\clean_backups.py \u2192 ../backup\ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak with metadata
+2025-07-07 15:41:13 - INFO - Modified: test_dir\clean_backups.py
+2025-07-07 15:41:13 - INFO - \U0001f4e6 Backed up: test_dir\clean_backups.py \u2192 ../backup\ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak with metadata
+2025-07-07 15:41:13 - INFO - Modified: test_dir\clean_backups.py
+2025-07-07 15:41:39 - INFO - Deleted: test_dir\clean_backups.py
+2025-07-08 14:04:38 - INFO - Loaded threat feed: 2 hashes, 2 filenames
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Created: test_dir\file1.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Modified: test_dir\file1.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Created: test_dir\file2.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Modified: test_dir\file2.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\113f6696d140c167070bcc5e24791f35_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Created: test_dir\file3.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\113f6696d140c167070bcc5e24791f35_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Modified: test_dir\file3.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Created: test_dir\file4.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Modified: test_dir\file4.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Created: test_dir\file5.txt
+2025-07-08 14:06:55 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140655.bak
+2025-07-08 14:06:55 - INFO - \U0001f4dd Metadata saved: ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140655.bak.json
+2025-07-08 14:06:55 - INFO - Modified: test_dir\file5.txt
+2025-07-08 14:06:55 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-08 14:06:55 - INFO - Starting file recovery from backups...
+2025-07-08 14:06:55 - INFO - Restoring ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140655.bak \u2192 test_dir\file4.txt
+2025-07-08 14:06:55 - INFO - Restoring ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140655.bak \u2192 test_dir\file1.txt
+2025-07-08 14:06:55 - INFO - Restoring ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140655.bak \u2192 test_dir\file5.txt
+2025-07-08 14:06:56 - INFO - Restoring ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140655.bak \u2192 test_dir\file2.txt
+2025-07-08 14:06:56 - INFO - Restoring ../backup\113f6696d140c167070bcc5e24791f35_20250708140655.bak \u2192 test_dir\file3.txt
+2025-07-08 14:06:56 - INFO - Recovery complete.
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\680183fde8fdfa76b041692bce98960b_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file6.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\680183fde8fdfa76b041692bce98960b_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file6.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file7.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file7.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\fe5c7909d5f81a608145fc151531374d_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file8.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\fe5c7909d5f81a608145fc151531374d_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file8.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\91f7f4dc63539be5a4d25fcef607983f_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file9.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\91f7f4dc63539be5a4d25fcef607983f_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file9.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\3dc84ab42ebee79e617fd733acf38f92_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file10.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\3dc84ab42ebee79e617fd733acf38f92_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file10.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\116c12524a95f384b488bac0f5497f18_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file11.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\116c12524a95f384b488bac0f5497f18_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file11.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\f9d804d1d604131dcb2127440f8f7e22_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file12.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\f9d804d1d604131dcb2127440f8f7e22_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file12.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\e14ddee2b2577df3f31576c9671e967f_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file13.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\e14ddee2b2577df3f31576c9671e967f_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file13.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Created: test_dir\file14.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file14.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\c474a02b4b89880c88f06bb48c362cda_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file4.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file1.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\950937a257793a2c068bd13ecfcee6b3_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file5.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\273604bfeef7126abe1f9bff1e45126c_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file2.txt
+2025-07-08 14:06:56 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250708140656.bak
+2025-07-08 14:06:56 - INFO - \U0001f4dd Metadata saved: ../backup\113f6696d140c167070bcc5e24791f35_20250708140656.bak.json
+2025-07-08 14:06:56 - INFO - Modified: test_dir\file3.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file1.txt to test_dir\filea.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filea.txt \u2192 ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filea.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file2.txt to test_dir\fileb.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\fileb.txt \u2192 ../backup\8ad0b77f48296f515082a3ae930f36ee_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\8ad0b77f48296f515082a3ae930f36ee_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\fileb.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file3.txt to test_dir\filec.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filec.txt \u2192 ../backup\13468786123b11d0a2d0ef26711b4861_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\13468786123b11d0a2d0ef26711b4861_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filec.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file4.txt to test_dir\filed.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filed.txt \u2192 ../backup\7719a64c58825a854b0bea5c72b14e0a_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\7719a64c58825a854b0bea5c72b14e0a_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filed.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file5.txt to test_dir\filee.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filee.txt \u2192 ../backup\5af23ec64b744e7598dee09e5ef322d9_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\5af23ec64b744e7598dee09e5ef322d9_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filee.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file6.txt to test_dir\filef.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filef.txt \u2192 ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filef.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file7.txt to test_dir\fileg.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\fileg.txt \u2192 ../backup\725484327727b8fc84d33914f4f3177e_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\725484327727b8fc84d33914f4f3177e_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\fileg.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file8.txt to test_dir\fileh.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\fileh.txt \u2192 ../backup\697b66fe82b7ec776cafe218bc6e5482_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\697b66fe82b7ec776cafe218bc6e5482_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\fileh.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file9.txt to test_dir\filei.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filei.txt \u2192 ../backup\64c598651d3b09291a73e8c0225a5e6c_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\64c598651d3b09291a73e8c0225a5e6c_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filei.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file10.txt to test_dir\filej.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filej.txt \u2192 ../backup\eac52acd6466b8becffb0d2aa28a7548_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\eac52acd6466b8becffb0d2aa28a7548_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filej.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file11.txt to test_dir\filek.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filek.txt \u2192 ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filek.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file12.txt to test_dir\filel.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filel.txt \u2192 ../backup\17fba291f428445f7ec51de35030f2ea_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\17fba291f428445f7ec51de35030f2ea_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filel.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file13.txt to test_dir\filem.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filem.txt \u2192 ../backup\857052115e2202f002a73fe0225b4b4f_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\857052115e2202f002a73fe0225b4b4f_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filem.txt
+2025-07-08 14:07:11 - INFO - Renamed: from test_dir\file14.txt to test_dir\filen.txt
+2025-07-08 14:07:11 - INFO - \U0001f4e6 Backed up: test_dir\filen.txt \u2192 ../backup\4a265fad4ef011c6fedc985415cb4b59_20250708140711.bak
+2025-07-08 14:07:11 - INFO - \U0001f4dd Metadata saved: ../backup\4a265fad4ef011c6fedc985415cb4b59_20250708140711.bak.json
+2025-07-08 14:07:11 - INFO - Modified: test_dir\filen.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filea.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\fileb.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filec.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filed.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filee.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filef.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\fileg.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\fileh.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filei.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filej.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filek.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filel.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filem.txt
+2025-07-08 14:07:21 - INFO - Deleted: test_dir\filen.txt
+2025-07-08 22:03:36 - ERROR - System alert failed: name 'threading' is not defined
+2025-07-08 22:05:42 - ERROR - System alert failed: name 'threading' is not defined
+2025-07-08 22:06:37 - ERROR - System alert failed: name 'threading' is not defined
+2025-07-08 22:06:57 - ERROR - System alert failed: name 'threading' is not defined
+2025-07-09 19:53:54 - INFO - Loaded threat feed: 3 hashes, 2 filenames
+2025-07-09 19:56:14 - INFO - \U0001f4e6 Backed up: test_dir\ransomware.exe \u2192 ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709195614.bak
+2025-07-09 19:56:14 - INFO - \U0001f4dd Metadata saved: ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709195614.bak.json
+2025-07-09 19:56:14 - INFO - Created: test_dir\ransomware.exe
+2025-07-09 19:56:14 - INFO - \U0001f4e6 Backed up: test_dir\ransomware.exe \u2192 ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709195614.bak
+2025-07-09 19:56:14 - INFO - \U0001f4dd Metadata saved: ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709195614.bak.json
+2025-07-09 19:56:14 - INFO - Modified: test_dir\ransomware.exe
+2025-07-09 19:57:52 - INFO - Renamed: from test_dir\ransomware.exe to test_dir\ransomware1.exe
+2025-07-09 19:57:52 - INFO - \U0001f4e6 Backed up: test_dir\ransomware1.exe \u2192 ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709195752.bak
+2025-07-09 19:57:52 - INFO - \U0001f4dd Metadata saved: ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709195752.bak.json
+2025-07-09 19:57:52 - INFO - Modified: test_dir\ransomware1.exe
+2025-07-09 20:17:00 - INFO - Loaded threat feed: 3 hashes, 2 filenames
+2025-07-09 20:18:51 - INFO - \U0001f4e6 Backed up: test_dir\ransomware.exe \u2192 ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709201851.bak
+2025-07-09 20:18:51 - INFO - \U0001f4dd Metadata saved: ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709201851.bak.json
+2025-07-09 20:18:51 - INFO - Created: test_dir\ransomware.exe
+2025-07-09 20:18:51 - INFO - \U0001f4e6 Backed up: test_dir\ransomware.exe \u2192 ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709201851.bak
+2025-07-09 20:18:51 - INFO - \U0001f4dd Metadata saved: ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709201851.bak.json
+2025-07-09 20:18:51 - INFO - Modified: test_dir\ransomware.exe
+2025-07-09 20:19:51 - INFO - Renamed: from test_dir\ransomware.exe to test_dir\ransomware1.exe
+2025-07-09 20:19:51 - INFO - \U0001f4e6 Backed up: test_dir\ransomware1.exe \u2192 ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709201951.bak
+2025-07-09 20:19:51 - INFO - \U0001f4dd Metadata saved: ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709201951.bak.json
+2025-07-09 20:19:51 - INFO - Modified: test_dir\ransomware1.exe
+2025-07-09 20:43:21 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-09 20:44:50 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-09 20:46:56 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Created: test_dir\file1.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Modified: test_dir\file1.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Created: test_dir\file2.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Modified: test_dir\file2.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\113f6696d140c167070bcc5e24791f35_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Created: test_dir\file3.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\113f6696d140c167070bcc5e24791f35_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Modified: test_dir\file3.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Created: test_dir\file4.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Modified: test_dir\file4.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Created: test_dir\file5.txt
+2025-07-09 20:48:26 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204826.bak
+2025-07-09 20:48:26 - INFO - \U0001f4dd Metadata saved: ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204826.bak.json
+2025-07-09 20:48:26 - INFO - Modified: test_dir\file5.txt
+2025-07-09 20:48:26 - WARNING - \u26a0\ufe0f SUSPICIOUS ACTIVITY DETECTED: Rapid file operations!
+2025-07-09 20:48:27 - INFO - Starting file recovery from backups...
+2025-07-09 20:48:27 - INFO - Restored ../backup\fe5c7909d5f81a608145fc151531374d_20250708140656.bak \u2192 test_dir\file8.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\f9d804d1d604131dcb2127440f8f7e22_20250708140656.bak \u2192 test_dir\file12.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\eac52acd6466b8becffb0d2aa28a7548_20250708140711.bak \u2192 test_dir\filej.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\e14ddee2b2577df3f31576c9671e967f_20250708140656.bak \u2192 test_dir\file13.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204826.bak \u2192 test_dir\file4.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204826.bak \u2192 test_dir\file1.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709201851.bak \u2192 test_dir\ransomware.exe
+2025-07-09 20:48:27 - INFO - Restored ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250708140711.bak \u2192 test_dir\filek.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204826.bak \u2192 test_dir\file5.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250708140711.bak \u2192 test_dir\filea.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\91f7f4dc63539be5a4d25fcef607983f_20250708140656.bak \u2192 test_dir\file9.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\8ad0b77f48296f515082a3ae930f36ee_20250708140711.bak \u2192 test_dir\fileb.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\857052115e2202f002a73fe0225b4b4f_20250708140711.bak \u2192 test_dir\filem.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\7719a64c58825a854b0bea5c72b14e0a_20250708140711.bak \u2192 test_dir\filed.txt
+2025-07-09 20:48:27 - INFO - Restored ../backup\725484327727b8fc84d33914f4f3177e_20250708140711.bak \u2192 test_dir\fileg.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\697b66fe82b7ec776cafe218bc6e5482_20250708140711.bak \u2192 test_dir\fileh.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\680183fde8fdfa76b041692bce98960b_20250708140656.bak \u2192 test_dir\file6.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\64c598651d3b09291a73e8c0225a5e6c_20250708140711.bak \u2192 test_dir\filei.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\5af23ec64b744e7598dee09e5ef322d9_20250708140711.bak \u2192 test_dir\filee.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250708140656.bak \u2192 test_dir\file14.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\4a265fad4ef011c6fedc985415cb4b59_20250708140711.bak \u2192 test_dir\filen.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250708140656.bak \u2192 test_dir\file7.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\3dc84ab42ebee79e617fd733acf38f92_20250708140656.bak \u2192 test_dir\file10.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709201951.bak \u2192 test_dir\ransomware1.exe
+2025-07-09 20:48:28 - INFO - Restored ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204826.bak \u2192 test_dir\file2.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250708140711.bak \u2192 test_dir\filef.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\17fba291f428445f7ec51de35030f2ea_20250708140711.bak \u2192 test_dir\filel.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\13468786123b11d0a2d0ef26711b4861_20250708140711.bak \u2192 test_dir\filec.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\116c12524a95f384b488bac0f5497f18_20250708140656.bak \u2192 test_dir\file11.txt
+2025-07-09 20:48:28 - INFO - Restored ../backup\113f6696d140c167070bcc5e24791f35_20250709204826.bak \u2192 test_dir\file3.txt
+2025-07-09 20:48:28 - INFO - Recovery complete.
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\680183fde8fdfa76b041692bce98960b_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file6.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\680183fde8fdfa76b041692bce98960b_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file6.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file7.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file7.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\fe5c7909d5f81a608145fc151531374d_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file8.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\fe5c7909d5f81a608145fc151531374d_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file8.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\91f7f4dc63539be5a4d25fcef607983f_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file9.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\91f7f4dc63539be5a4d25fcef607983f_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file9.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\3dc84ab42ebee79e617fd733acf38f92_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file10.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\3dc84ab42ebee79e617fd733acf38f92_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file10.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\116c12524a95f384b488bac0f5497f18_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file11.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\116c12524a95f384b488bac0f5497f18_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file11.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\f9d804d1d604131dcb2127440f8f7e22_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file12.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\f9d804d1d604131dcb2127440f8f7e22_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file12.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\e14ddee2b2577df3f31576c9671e967f_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file13.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\e14ddee2b2577df3f31576c9671e967f_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Modified: test_dir\file13.txt
+2025-07-09 20:48:28 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204828.bak
+2025-07-09 20:48:28 - INFO - \U0001f4dd Metadata saved: ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204828.bak.json
+2025-07-09 20:48:28 - INFO - Created: test_dir\file14.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file14.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file8.txt \u2192 ../backup\fe5c7909d5f81a608145fc151531374d_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\fe5c7909d5f81a608145fc151531374d_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file8.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file12.txt \u2192 ../backup\f9d804d1d604131dcb2127440f8f7e22_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\f9d804d1d604131dcb2127440f8f7e22_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file12.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filej.txt \u2192 ../backup\eac52acd6466b8becffb0d2aa28a7548_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\eac52acd6466b8becffb0d2aa28a7548_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filej.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filej.txt \u2192 ../backup\eac52acd6466b8becffb0d2aa28a7548_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\eac52acd6466b8becffb0d2aa28a7548_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filej.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file13.txt \u2192 ../backup\e14ddee2b2577df3f31576c9671e967f_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\e14ddee2b2577df3f31576c9671e967f_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file13.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file4.txt \u2192 ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\c474a02b4b89880c88f06bb48c362cda_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file4.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file1.txt \u2192 ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\bd01856bfd2065d0d1ee20c03bd3a9af_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file1.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\ransomware.exe \u2192 ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\ransomware.exe
+2025-07-09 20:48:29 - WARNING - \u26a0\ufe0f Threat Detected: Hash match for test_dir\ransomware.exe
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\ransomware.exe \u2192 ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\bccfd3296ceeed245d0778db05b8cd0a_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\ransomware.exe
+2025-07-09 20:48:29 - WARNING - \u26a0\ufe0f Threat Detected: Hash match for test_dir\ransomware.exe
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filek.txt \u2192 ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filek.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filek.txt \u2192 ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filek.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file5.txt \u2192 ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\950937a257793a2c068bd13ecfcee6b3_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file5.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filea.txt \u2192 ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filea.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filea.txt \u2192 ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filea.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file9.txt \u2192 ../backup\91f7f4dc63539be5a4d25fcef607983f_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\91f7f4dc63539be5a4d25fcef607983f_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file9.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\fileb.txt \u2192 ../backup\8ad0b77f48296f515082a3ae930f36ee_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\8ad0b77f48296f515082a3ae930f36ee_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\fileb.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\fileb.txt \u2192 ../backup\8ad0b77f48296f515082a3ae930f36ee_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\8ad0b77f48296f515082a3ae930f36ee_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\fileb.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filem.txt \u2192 ../backup\857052115e2202f002a73fe0225b4b4f_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\857052115e2202f002a73fe0225b4b4f_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filem.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filem.txt \u2192 ../backup\857052115e2202f002a73fe0225b4b4f_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\857052115e2202f002a73fe0225b4b4f_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filem.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filed.txt \u2192 ../backup\7719a64c58825a854b0bea5c72b14e0a_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\7719a64c58825a854b0bea5c72b14e0a_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filed.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filed.txt \u2192 ../backup\7719a64c58825a854b0bea5c72b14e0a_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\7719a64c58825a854b0bea5c72b14e0a_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filed.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\fileg.txt \u2192 ../backup\725484327727b8fc84d33914f4f3177e_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\725484327727b8fc84d33914f4f3177e_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\fileg.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\fileg.txt \u2192 ../backup\725484327727b8fc84d33914f4f3177e_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\725484327727b8fc84d33914f4f3177e_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\fileg.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\fileh.txt \u2192 ../backup\697b66fe82b7ec776cafe218bc6e5482_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\697b66fe82b7ec776cafe218bc6e5482_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\fileh.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\fileh.txt \u2192 ../backup\697b66fe82b7ec776cafe218bc6e5482_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\697b66fe82b7ec776cafe218bc6e5482_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\fileh.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file6.txt \u2192 ../backup\680183fde8fdfa76b041692bce98960b_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\680183fde8fdfa76b041692bce98960b_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file6.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filei.txt \u2192 ../backup\64c598651d3b09291a73e8c0225a5e6c_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\64c598651d3b09291a73e8c0225a5e6c_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filei.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filei.txt \u2192 ../backup\64c598651d3b09291a73e8c0225a5e6c_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\64c598651d3b09291a73e8c0225a5e6c_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filei.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filee.txt \u2192 ../backup\5af23ec64b744e7598dee09e5ef322d9_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\5af23ec64b744e7598dee09e5ef322d9_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filee.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filee.txt \u2192 ../backup\5af23ec64b744e7598dee09e5ef322d9_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\5af23ec64b744e7598dee09e5ef322d9_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filee.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file14.txt \u2192 ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file14.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filen.txt \u2192 ../backup\4a265fad4ef011c6fedc985415cb4b59_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\4a265fad4ef011c6fedc985415cb4b59_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filen.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filen.txt \u2192 ../backup\4a265fad4ef011c6fedc985415cb4b59_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\4a265fad4ef011c6fedc985415cb4b59_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filen.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file7.txt \u2192 ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\40b0c6449d424148e5ce0894a2eed5ff_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file7.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file10.txt \u2192 ../backup\3dc84ab42ebee79e617fd733acf38f92_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\3dc84ab42ebee79e617fd733acf38f92_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file10.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\ransomware1.exe \u2192 ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\2df53195bed0c417e68fba6dcacdb3b9_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\ransomware1.exe
+2025-07-09 20:48:29 - WARNING - \u26a0\ufe0f Threat Detected: Hash match for test_dir\ransomware1.exe
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file2.txt \u2192 ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\273604bfeef7126abe1f9bff1e45126c_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file2.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filef.txt \u2192 ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filef.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filef.txt \u2192 ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filef.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filel.txt \u2192 ../backup\17fba291f428445f7ec51de35030f2ea_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\17fba291f428445f7ec51de35030f2ea_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filel.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filel.txt \u2192 ../backup\17fba291f428445f7ec51de35030f2ea_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\17fba291f428445f7ec51de35030f2ea_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filel.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filec.txt \u2192 ../backup\13468786123b11d0a2d0ef26711b4861_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\13468786123b11d0a2d0ef26711b4861_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Created: test_dir\filec.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\filec.txt \u2192 ../backup\13468786123b11d0a2d0ef26711b4861_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\13468786123b11d0a2d0ef26711b4861_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\filec.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file11.txt \u2192 ../backup\116c12524a95f384b488bac0f5497f18_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\116c12524a95f384b488bac0f5497f18_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file11.txt
+2025-07-09 20:48:29 - INFO - \U0001f4e6 Backed up: test_dir\file3.txt \u2192 ../backup\113f6696d140c167070bcc5e24791f35_20250709204829.bak
+2025-07-09 20:48:29 - INFO - \U0001f4dd Metadata saved: ../backup\113f6696d140c167070bcc5e24791f35_20250709204829.bak.json
+2025-07-09 20:48:29 - INFO - Modified: test_dir\file3.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filea.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\fileb.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filec.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filed.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filee.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filef.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\fileg.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\fileh.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filei.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filej.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filek.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filel.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filem.txt
+2025-07-09 20:51:23 - INFO - Deleted: test_dir\filen.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file1.txt to test_dir\filea.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filea.txt \u2192 ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\94d2cde97b3d47213274c5ec4ea0fb87_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filea.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file2.txt to test_dir\fileb.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\fileb.txt \u2192 ../backup\8ad0b77f48296f515082a3ae930f36ee_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\8ad0b77f48296f515082a3ae930f36ee_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\fileb.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file3.txt to test_dir\filec.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filec.txt \u2192 ../backup\13468786123b11d0a2d0ef26711b4861_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\13468786123b11d0a2d0ef26711b4861_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filec.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file4.txt to test_dir\filed.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filed.txt \u2192 ../backup\7719a64c58825a854b0bea5c72b14e0a_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\7719a64c58825a854b0bea5c72b14e0a_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filed.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file5.txt to test_dir\filee.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filee.txt \u2192 ../backup\5af23ec64b744e7598dee09e5ef322d9_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\5af23ec64b744e7598dee09e5ef322d9_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filee.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file6.txt to test_dir\filef.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filef.txt \u2192 ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\1883f1f9b2ac9021c3912a8a75119fc0_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filef.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file7.txt to test_dir\fileg.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\fileg.txt \u2192 ../backup\725484327727b8fc84d33914f4f3177e_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\725484327727b8fc84d33914f4f3177e_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\fileg.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file8.txt to test_dir\fileh.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\fileh.txt \u2192 ../backup\697b66fe82b7ec776cafe218bc6e5482_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\697b66fe82b7ec776cafe218bc6e5482_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\fileh.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file9.txt to test_dir\filei.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filei.txt \u2192 ../backup\64c598651d3b09291a73e8c0225a5e6c_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\64c598651d3b09291a73e8c0225a5e6c_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filei.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file10.txt to test_dir\filej.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filej.txt \u2192 ../backup\eac52acd6466b8becffb0d2aa28a7548_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\eac52acd6466b8becffb0d2aa28a7548_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filej.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file11.txt to test_dir\filek.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filek.txt \u2192 ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\9fe8e26778c678671e6b3b6ce91a15e9_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filek.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file12.txt to test_dir\filel.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filel.txt \u2192 ../backup\17fba291f428445f7ec51de35030f2ea_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\17fba291f428445f7ec51de35030f2ea_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filel.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file13.txt to test_dir\filem.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filem.txt \u2192 ../backup\857052115e2202f002a73fe0225b4b4f_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\857052115e2202f002a73fe0225b4b4f_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filem.txt
+2025-07-09 20:51:46 - INFO - Renamed: from test_dir\file14.txt to test_dir\filen.txt
+2025-07-09 20:51:46 - INFO - \U0001f4e6 Backed up: test_dir\filen.txt \u2192 ../backup\4a265fad4ef011c6fedc985415cb4b59_20250709205146.bak
+2025-07-09 20:51:46 - INFO - \U0001f4dd Metadata saved: ../backup\4a265fad4ef011c6fedc985415cb4b59_20250709205146.bak.json
+2025-07-09 20:51:46 - INFO - Modified: test_dir\filen.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filea.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\fileb.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filec.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filed.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filee.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filef.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\fileg.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\fileh.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filei.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filej.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filek.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filel.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filem.txt
+2025-07-09 20:51:55 - INFO - Deleted: test_dir\filen.txt
+2025-07-09 20:54:43 - INFO - Deleted: test_dir\ransomware.exe
+2025-07-09 20:54:43 - INFO - Deleted: test_dir\ransomware1.exe
+2025-07-09 20:54:45 - INFO - \U0001f4e6 Backed up: test_dir\example.txt \u2192 ../backup\e76faa0543e007be095bb52982802abe_20250709205445.bak
+2025-07-09 20:54:45 - INFO - \U0001f4dd Metadata saved: ../backup\e76faa0543e007be095bb52982802abe_20250709205445.bak.json
+2025-07-09 20:54:45 - INFO - Modified: test_dir\example.txt
+2025-07-09 20:54:45 - WARNING - \u26a0\ufe0f Threat Detected: Hash match for test_dir\example.txt
+2025-07-09 21:02:03 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-09 21:03:45 - INFO - \U0001f4e6 Backed up: test_dir\dummy.exe \u2192 ../backup\d2bb4a2a78989402b1f4ae958f912cf1_20250709210345.bak
+2025-07-09 21:03:45 - INFO - \U0001f4dd Metadata saved: ../backup\d2bb4a2a78989402b1f4ae958f912cf1_20250709210345.bak.json
+2025-07-09 21:03:45 - INFO - Created: test_dir\dummy.exe
+2025-07-09 21:03:45 - INFO - \U0001f4e6 Backed up: test_dir\dummy.exe \u2192 ../backup\d2bb4a2a78989402b1f4ae958f912cf1_20250709210345.bak
+2025-07-09 21:03:45 - INFO - \U0001f4dd Metadata saved: ../backup\d2bb4a2a78989402b1f4ae958f912cf1_20250709210345.bak.json
+2025-07-09 21:03:45 - INFO - Modified: test_dir\dummy.exe
+2025-07-09 21:04:59 - INFO - Renamed: from test_dir\dummy.exe to test_dir\encryptor.exe
+2025-07-09 21:04:59 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-09 21:04:59 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250709210459.bak
+2025-07-09 21:04:59 - INFO - \U0001f4dd Metadata saved: ../backup\955fe2f0f2265b6813484d0583c578fd_20250709210459.bak.json
+2025-07-09 21:04:59 - INFO - Modified: test_dir\encryptor.exe
+2025-07-09 21:04:59 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 11:35:30 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-11 11:37:36 - INFO - \U0001f4e6 Backed up: test_dir\wannacry_payload.py \u2192 ../backup\a426ec6ea4db65b9055762df0041f479_20250711113736.bak
+2025-07-11 11:37:36 - INFO - \U0001f4dd Metadata saved: ../backup\a426ec6ea4db65b9055762df0041f479_20250711113736.bak.json
+2025-07-11 11:37:36 - INFO - Modified: test_dir\wannacry_payload.py
+2025-07-11 11:37:36 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename wannacry_payload.py
+2025-07-11 11:37:48 - INFO - Deleted: test_dir\wannacry_payload.py
+2025-07-11 11:37:49 - INFO - \U0001f4e6 Backed up: test_dir\example.txt \u2192 ../backup\e76faa0543e007be095bb52982802abe_20250711113749.bak
+2025-07-11 11:37:49 - INFO - \U0001f4dd Metadata saved: ../backup\e76faa0543e007be095bb52982802abe_20250711113749.bak.json
+2025-07-11 11:37:49 - INFO - Modified: test_dir\example.txt
+2025-07-11 11:37:49 - WARNING - \u26a0\ufe0f Threat Detected: Hash match for test_dir\example.txt
+2025-07-11 11:38:56 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-11 11:40:07 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711114007.bak
+2025-07-11 11:40:07 - INFO - \U0001f4dd Metadata saved: ../backup\955fe2f0f2265b6813484d0583c578fd_20250711114007.bak.json
+2025-07-11 11:40:07 - INFO - Created: test_dir\encryptor.exe
+2025-07-11 11:40:07 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 11:40:07 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711114007.bak
+2025-07-11 11:40:07 - INFO - \U0001f4dd Metadata saved: ../backup\955fe2f0f2265b6813484d0583c578fd_20250711114007.bak.json
+2025-07-11 11:40:07 - INFO - Modified: test_dir\encryptor.exe
+2025-07-11 11:40:07 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 18:37:13 - INFO - Loaded threat feed: 4 hashes, 2 filenames
+2025-07-11 19:39:49 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-11 19:41:16 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711194116.bak
+2025-07-11 19:41:16 - INFO - Created: test_dir\encryptor.exe
+2025-07-11 19:41:16 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 19:41:17 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711194117.bak
+2025-07-11 19:41:17 - INFO - Modified: test_dir\encryptor.exe
+2025-07-11 19:41:17 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 19:50:19 - INFO - Renamed: from test_dir\mfs.txt to test_dir\encryptor.exe
+2025-07-11 19:50:19 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 19:50:19 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711195019.bak
+2025-07-11 19:50:19 - INFO - Modified: test_dir\encryptor.exe
+2025-07-11 19:50:19 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 19:51:09 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-11 19:52:53 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711195253.bak
+2025-07-11 19:52:53 - INFO - Created: test_dir\encryptor.exe
+2025-07-11 19:52:53 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-11 19:52:53 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250711195253.bak
+2025-07-11 19:52:53 - INFO - Modified: test_dir\encryptor.exe
+2025-07-11 19:52:53 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 10:57:08 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-12 10:57:33 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712105733.bak
+2025-07-12 10:57:33 - INFO - Created: test_dir\encryptor.exe
+2025-07-12 10:57:33 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 10:57:33 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712105733.bak
+2025-07-12 10:57:33 - INFO - Modified: test_dir\encryptor.exe
+2025-07-12 10:57:33 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 11:03:42 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-12 11:03:52 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712110352.bak
+2025-07-12 11:03:52 - INFO - Created: test_dir\encryptor.exe
+2025-07-12 11:03:52 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 11:03:57 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712110357.bak
+2025-07-12 11:03:57 - INFO - Modified: test_dir\encryptor.exe
+2025-07-12 11:03:57 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 11:11:23 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-12 11:11:31 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712111131.bak
+2025-07-12 11:11:31 - INFO - Created: test_dir\encryptor.exe
+2025-07-12 11:11:31 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 11:11:36 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712111136.bak
+2025-07-12 11:11:36 - INFO - Modified: test_dir\encryptor.exe
+2025-07-12 11:11:36 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 11:18:36 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-12 11:18:44 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712111843.bak
+2025-07-12 11:18:44 - INFO - Created: test_dir\encryptor.exe
+2025-07-12 11:18:44 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 11:18:49 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712111849.bak
+2025-07-12 11:18:49 - INFO - Modified: test_dir\encryptor.exe
+2025-07-12 11:18:49 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 12:45:18 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-12 12:45:39 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712124539.bak
+2025-07-12 12:45:39 - INFO - Created: test_dir\encryptor.exe
+2025-07-12 12:45:39 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 12:45:44 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712124544.bak
+2025-07-12 12:45:44 - INFO - Modified: test_dir\encryptor.exe
+2025-07-12 12:45:44 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 16:13:57 - INFO - Deleted: test_dir\encryptor.exe
+2025-07-12 16:17:00 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712161700.bak
+2025-07-12 16:17:00 - INFO - Created: test_dir\encryptor.exe
+2025-07-12 16:17:00 - WARNING - \u26a0\ufe0f Threat Detected: Suspicious filename encryptor.exe
+2025-07-12 16:17:06 - INFO - \U0001f4e6 Backed up: test_dir\encryptor.exe \u2192 ../backup\955fe2f0f2265b6813484d0583c578fd_20250712161706.bak
+2025-07-12 16:17:06 - INFO - Modified: test_dir\encryptor.exe
+2025-07-12 16:21:51 - INFO - Deleted: encryptor.exe
+2025-07-12 16:21:59 - INFO - Created: encryptor.exe
+2025-07-12 16:21:59 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-12 16:22:04 - INFO - Modified: encryptor.exe
+2025-07-12 16:22:04 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-12 16:27:44 - INFO - Deleted: encryptor.exe
+2025-07-12 16:27:50 - INFO - Created: encryptor.exe
+2025-07-12 16:27:50 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-12 16:27:50 - WARNING - Threat Detected: Suspicious filename: encryptor.exe
+2025-07-12 16:27:50 - INFO - Modified: encryptor.exe
+2025-07-12 16:27:50 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-12 16:34:38 - INFO - Modified: example.txt
+2025-07-12 16:34:38 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-12 16:34:38 - WARNING - Threat Detected: Hash match: example.txt
+2025-07-12 16:39:09 - INFO - Deleted: encryptor.exe
+2025-07-12 16:44:33 - INFO - Deleted: example.txt
+2025-07-12 18:36:52 - INFO - Renamed: from example.txt to examplee.txt
+2025-07-12 18:36:52 - INFO - Modified: examplee.txt
+2025-07-12 18:38:19 - INFO - Renamed: from examplee.txt to example.txt
+2025-07-12 18:38:19 - INFO - Modified: example.txt
+2025-07-12 18:38:35 - INFO - Modified: example.txt
+2025-07-12 18:38:35 - INFO - Modified: example.txt
+2025-07-12 18:43:48 - INFO - Modified: example.txt
+2025-07-12 18:43:48 - INFO - Modified: example.txt
+2025-07-12 18:46:27 - INFO - Deleted: example.txt
+2025-07-12 18:47:06 - INFO - Created: example.txt
+2025-07-12 18:47:06 - INFO - Modified: example.txt
+2025-07-12 18:52:24 - INFO - Created: example.txt
+2025-07-12 18:52:24 - INFO - Modified: example.txt
+2025-07-12 18:59:31 - INFO - Modified: example.txt
+2025-07-12 18:59:31 - INFO - Modified: example.txt
+2025-07-12 19:01:39 - INFO - Modified: example.txt
+2025-07-12 19:01:39 - INFO - Modified: example.txt
+2025-07-12 20:22:26 - INFO - Created: example.txt
+2025-07-12 20:22:26 - INFO - Modified: example.txt
+2025-07-12 20:22:47 - INFO - Modified: example.txt
+2025-07-12 20:24:51 - INFO - Deleted: example.txt
+2025-07-12 20:27:17 - INFO - Created: example.txt
+2025-07-12 20:27:17 - INFO - Modified: example.txt
+2025-07-12 20:27:42 - INFO - Deleted: example.txt
+2025-07-12 20:28:53 - INFO - Created: example.txt
+2025-07-12 20:28:53 - INFO - Modified: example.txt
+2025-07-12 20:30:04 - INFO - Modified: example.txt
+2025-07-12 20:30:04 - INFO - Modified: example.txt
+2025-07-12 20:30:24 - INFO - Modified: example.txt
+2025-07-12 20:30:24 - INFO - Modified: example.txt
+2025-07-12 20:31:26 - INFO - Created: example.txt
+2025-07-12 20:31:26 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-12 20:31:26 - WARNING - Threat Detected: Hash match: example.txt
+2025-07-12 20:31:26 - INFO - Modified: example.txt
+2025-07-12 20:31:26 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-12 20:37:08 - INFO - Created: example.txt
+2025-07-12 20:37:08 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-12 20:37:08 - WARNING - Threat Detected: Hash match: example.txt
+2025-07-12 20:37:08 - INFO - Modified: example.txt
+2025-07-12 20:37:08 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-12 20:41:30 - INFO - Created: file_0.txt
+2025-07-12 20:41:30 - INFO - Modified: file_0.txt
+2025-07-12 20:41:30 - INFO - Created: file_1.txt
+2025-07-12 20:41:30 - INFO - Modified: file_1.txt
+2025-07-12 20:41:30 - INFO - Created: file_2.txt
+2025-07-12 20:41:30 - INFO - Modified: file_2.txt
+2025-07-12 20:41:31 - INFO - Created: file_3.txt
+2025-07-12 20:41:31 - INFO - Modified: file_3.txt
+2025-07-12 20:41:31 - INFO - Created: file_4.txt
+2025-07-12 20:41:31 - INFO - Modified: file_4.txt
+2025-07-12 20:41:31 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-12 20:41:31 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-12 20:41:31 - WARNING - Killed suspicious process: python.exe
+2025-07-12 20:41:31 - ERROR - Recovery failed: join() argument must be str, bytes, or os.PathLike object, not 'NoneType'
+2025-07-12 20:41:31 - INFO - Created: file_5.txt
+2025-07-12 20:41:31 - INFO - Modified: file_3.txt
+2025-07-12 20:41:31 - INFO - Created: file8.txt
+2025-07-12 20:41:31 - INFO - Modified: file8.txt
+2025-07-12 20:47:56 - INFO - Modified: file_0.txt
+2025-07-12 20:47:56 - INFO - Modified: file_0.txt
+2025-07-12 20:47:56 - INFO - Modified: file_1.txt
+2025-07-12 20:47:56 - INFO - Modified: file_1.txt
+2025-07-12 20:47:56 - INFO - Modified: file_2.txt
+2025-07-12 20:47:56 - INFO - Modified: file_2.txt
+2025-07-12 20:47:57 - INFO - Modified: file_3.txt
+2025-07-12 20:47:57 - INFO - Modified: file_3.txt
+2025-07-12 20:47:57 - INFO - Modified: file_4.txt
+2025-07-12 20:47:57 - INFO - Modified: file_4.txt
+2025-07-12 20:47:57 - INFO - Modified: file_5.txt
+2025-07-12 20:47:57 - INFO - Modified: file_5.txt
+2025-07-12 20:47:58 - INFO - Created: file_6.txt
+2025-07-12 20:47:58 - INFO - Modified: file_6.txt
+2025-07-12 20:47:58 - INFO - Created: file_7.txt
+2025-07-12 20:47:58 - INFO - Modified: file_7.txt
+2025-07-12 20:47:58 - INFO - Created: file_8.txt
+2025-07-12 20:47:58 - INFO - Modified: file_8.txt
+2025-07-12 20:47:58 - INFO - Created: file_9.txt
+2025-07-12 20:47:58 - INFO - Modified: file_9.txt
+2025-07-12 20:47:59 - INFO - Created: file_10.txt
+2025-07-12 20:47:59 - INFO - Modified: file_10.txt
+2025-07-12 20:47:59 - INFO - Created: file_11.txt
+2025-07-12 20:47:59 - INFO - Modified: file_11.txt
+2025-07-12 20:47:59 - INFO - Created: file_12.txt
+2025-07-12 20:47:59 - INFO - Modified: file_12.txt
+2025-07-12 20:48:00 - INFO - Created: file_13.txt
+2025-07-12 20:48:00 - INFO - Modified: file_13.txt
+2025-07-12 20:48:00 - INFO - Created: file_14.txt
+2025-07-12 20:48:00 - INFO - Modified: file_14.txt
+2025-07-12 20:48:48 - INFO - Modified: file_0.txt
+2025-07-12 20:48:48 - INFO - Modified: file_0.txt
+2025-07-12 20:48:48 - INFO - Modified: file_1.txt
+2025-07-12 20:48:48 - INFO - Modified: file_1.txt
+2025-07-12 20:48:48 - INFO - Modified: file_2.txt
+2025-07-12 20:48:48 - INFO - Modified: file_2.txt
+2025-07-12 20:48:49 - INFO - Modified: file_3.txt
+2025-07-12 20:48:49 - INFO - Modified: file_3.txt
+2025-07-12 20:48:49 - INFO - Modified: file_4.txt
+2025-07-12 20:48:49 - INFO - Modified: file_4.txt
+2025-07-12 20:48:49 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-12 20:48:49 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-12 20:48:49 - WARNING - Killed suspicious process: python.exe
+2025-07-12 20:48:49 - INFO - Starting file recovery from backups...
+2025-07-12 20:48:50 - INFO - Restored backup ff4f4b91e42fc47ea3644d9adc2bad18_20250712204849.bak to test_dir\file_3.txt
+2025-07-12 20:48:50 - INFO - Restored backup fe5c7909d5f81a608145fc151531374d_20250712204131.bak to test_dir\file8.txt
+2025-07-12 20:48:50 - WARNING - Missing 'original_name' in metadata for fe5c7909d5f81a608145fc151531374d_20250707153415.bak, skipping.
+2025-07-12 20:48:50 - INFO - Restored backup f9d804d1d604131dcb2127440f8f7e22_20250709204829.bak to test_dir\file12.txt
+2025-07-12 20:48:50 - WARNING - Missing 'original_name' in metadata for f9d804d1d604131dcb2127440f8f7e22_20250707153415.bak, skipping.
+2025-07-12 20:48:50 - INFO - Restored backup f115c5657bf98c8b21323b37b8f23306_20250712204758.bak to test_dir\file_8.txt
+2025-07-12 20:48:50 - INFO - Restored backup ef1620bfe7ca4aa093208f5aaa934746_20250712204848.bak to test_dir\file_0.txt
+2025-07-12 20:48:50 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak, skipping.
+2025-07-12 20:48:50 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak, skipping.
+2025-07-12 20:48:50 - INFO - Restored backup ee0dfbcd14a1b0f3e4f45206c28464cb_20250712204848.bak to test_dir\file_1.txt
+2025-07-12 20:48:50 - INFO - Restored backup eac52acd6466b8becffb0d2aa28a7548_20250709205146.bak to test_dir\filej.txt
+2025-07-12 20:48:50 - WARNING - Missing 'original_name' in metadata for eac52acd6466b8becffb0d2aa28a7548_20250707153423.bak, skipping.
+2025-07-12 20:48:50 - INFO - Restored backup e76faa0543e007be095bb52982802abe_20250712203708.bak to test_dir\example.txt
+2025-07-12 20:48:50 - INFO - Restored backup e5909f79f9bac0ea7da7a9fc98a39ad6_20250712204758.bak to test_dir\file_6.txt
+2025-07-12 20:48:50 - INFO - Restored backup e14ddee2b2577df3f31576c9671e967f_20250709204829.bak to test_dir\file13.txt
+2025-07-12 20:48:50 - WARNING - Missing 'original_name' in metadata for e14ddee2b2577df3f31576c9671e967f_20250707153415.bak, skipping.
+2025-07-12 20:48:50 - INFO - Restored backup d6cb47fe6fb927ef32a677eb86294081_20250712204800.bak to test_dir\file_13.txt
+2025-07-12 20:48:50 - INFO - Restored backup d2bb4a2a78989402b1f4ae958f912cf1_20250709210345.bak to test_dir\dummy.exe
+2025-07-12 20:48:50 - INFO - Restored backup c474a02b4b89880c88f06bb48c362cda_20250709204829.bak to test_dir\file4.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for c474a02b4b89880c88f06bb48c362cda_20250707153415.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup bd5575de561478ea911b375c07389ea2_20250712204758.bak to test_dir\file_9.txt
+2025-07-12 20:48:51 - INFO - Restored backup bd01856bfd2065d0d1ee20c03bd3a9af_20250709204829.bak to test_dir\file1.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for bd01856bfd2065d0d1ee20c03bd3a9af_20250707153415.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup bccfd3296ceeed245d0778db05b8cd0a_20250709204829.bak to test_dir\ransomware.exe
+2025-07-12 20:48:51 - INFO - Restored backup ab2caad6fd24f3d6377253ae5d254fac_20250712183652.bak to test_dir\examplee.txt
+2025-07-12 20:48:51 - INFO - Restored backup a426ec6ea4db65b9055762df0041f479_20250711113736.bak to test_dir\wannacry_payload.py
+2025-07-12 20:48:51 - INFO - Restored backup 9fe8e26778c678671e6b3b6ce91a15e9_20250709205146.bak to test_dir\filek.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for 9fe8e26778c678671e6b3b6ce91a15e9_20250707153423.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup 955fe2f0f2265b6813484d0583c578fd_20250712162750.bak to test_dir\encryptor.exe
+2025-07-12 20:48:51 - INFO - Restored backup 950937a257793a2c068bd13ecfcee6b3_20250709204829.bak to test_dir\file5.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for 950937a257793a2c068bd13ecfcee6b3_20250707153415.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup 94d2cde97b3d47213274c5ec4ea0fb87_20250709205146.bak to test_dir\filea.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for 94d2cde97b3d47213274c5ec4ea0fb87_20250707153423.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup 91f7f4dc63539be5a4d25fcef607983f_20250709204829.bak to test_dir\file9.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for 91f7f4dc63539be5a4d25fcef607983f_20250707153415.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup 8f60626f03bdc682d550c19d5f8ef94d_20250712204849.bak to test_dir\file_4.txt
+2025-07-12 20:48:51 - INFO - Restored backup 8ad0b77f48296f515082a3ae930f36ee_20250709205146.bak to test_dir\fileb.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for 8ad0b77f48296f515082a3ae930f36ee_20250707153423.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup 857052115e2202f002a73fe0225b4b4f_20250709205146.bak to test_dir\filem.txt
+2025-07-12 20:48:51 - WARNING - Missing 'original_name' in metadata for 857052115e2202f002a73fe0225b4b4f_20250707153423.bak, skipping.
+2025-07-12 20:48:51 - INFO - Restored backup 80d8fdcc39c0016b27cfa91149aef3de_20250712204758.bak to test_dir\file_7.txt
+2025-07-12 20:48:52 - INFO - Restored backup 7719a64c58825a854b0bea5c72b14e0a_20250709205146.bak to test_dir\filed.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 7719a64c58825a854b0bea5c72b14e0a_20250707153423.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 7311970a411593e7017ace604142f083_20250712204757.bak to test_dir\file_5.txt
+2025-07-12 20:48:52 - INFO - Restored backup 725484327727b8fc84d33914f4f3177e_20250709205146.bak to test_dir\fileg.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 725484327727b8fc84d33914f4f3177e_20250707153423.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 697b66fe82b7ec776cafe218bc6e5482_20250709205146.bak to test_dir\fileh.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 697b66fe82b7ec776cafe218bc6e5482_20250707153423.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 680183fde8fdfa76b041692bce98960b_20250709204829.bak to test_dir\file6.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 680183fde8fdfa76b041692bce98960b_20250707153415.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 64c598651d3b09291a73e8c0225a5e6c_20250709205146.bak to test_dir\filei.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 64c598651d3b09291a73e8c0225a5e6c_20250707153423.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 5af23ec64b744e7598dee09e5ef322d9_20250709205146.bak to test_dir\filee.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 5af23ec64b744e7598dee09e5ef322d9_20250707153423.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 5addf84354962fe778b5506af1837f21_20250712204759.bak to test_dir\file_12.txt
+2025-07-12 20:48:52 - INFO - Restored backup 5a127ccd0d38aae01245b236e953ca4a_20250712204800.bak to test_dir\file_14.txt
+2025-07-12 20:48:52 - INFO - Restored backup 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250709204829.bak to test_dir\file14.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250707153415.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 4a265fad4ef011c6fedc985415cb4b59_20250709205146.bak to test_dir\filen.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 4a265fad4ef011c6fedc985415cb4b59_20250707153423.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 439560b95fbf743602b2b670fa4bf34c_20250712204848.bak to test_dir\file_2.txt
+2025-07-12 20:48:52 - INFO - Restored backup 40b0c6449d424148e5ce0894a2eed5ff_20250709204829.bak to test_dir\file7.txt
+2025-07-12 20:48:52 - WARNING - Missing 'original_name' in metadata for 40b0c6449d424148e5ce0894a2eed5ff_20250707153415.bak, skipping.
+2025-07-12 20:48:52 - INFO - Restored backup 40223462a61bd78846b572315dbeccc2_20250712204759.bak to test_dir\file_11.txt
+2025-07-12 20:48:52 - INFO - Restored backup 3dc84ab42ebee79e617fd733acf38f92_20250709204829.bak to test_dir\file10.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 3dc84ab42ebee79e617fd733acf38f92_20250707153415.bak, skipping.
+2025-07-12 20:48:53 - INFO - Restored backup 2df53195bed0c417e68fba6dcacdb3b9_20250709204829.bak to test_dir\ransomware1.exe
+2025-07-12 20:48:53 - INFO - Restored backup 29b0fe09137807032d602c10b00802e9_20250712204759.bak to test_dir\file_10.txt
+2025-07-12 20:48:53 - INFO - Restored backup 273604bfeef7126abe1f9bff1e45126c_20250709204829.bak to test_dir\file2.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 273604bfeef7126abe1f9bff1e45126c_20250707153415.bak, skipping.
+2025-07-12 20:48:53 - INFO - Restored backup 1883f1f9b2ac9021c3912a8a75119fc0_20250709205146.bak to test_dir\filef.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 1883f1f9b2ac9021c3912a8a75119fc0_20250707153423.bak, skipping.
+2025-07-12 20:48:53 - INFO - Restored backup 17fba291f428445f7ec51de35030f2ea_20250709205146.bak to test_dir\filel.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 17fba291f428445f7ec51de35030f2ea_20250707153423.bak, skipping.
+2025-07-12 20:48:53 - INFO - Restored backup 13468786123b11d0a2d0ef26711b4861_20250709205146.bak to test_dir\filec.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 13468786123b11d0a2d0ef26711b4861_20250707153423.bak, skipping.
+2025-07-12 20:48:53 - INFO - Restored backup 116c12524a95f384b488bac0f5497f18_20250709204829.bak to test_dir\file11.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 116c12524a95f384b488bac0f5497f18_20250707153415.bak, skipping.
+2025-07-12 20:48:53 - INFO - Restored backup 113f6696d140c167070bcc5e24791f35_20250709204829.bak to test_dir\file3.txt
+2025-07-12 20:48:53 - WARNING - Missing 'original_name' in metadata for 113f6696d140c167070bcc5e24791f35_20250707153415.bak, skipping.
+2025-07-12 20:48:53 - INFO - Recovery complete.
+2025-07-12 20:48:53 - INFO - Modified: file_3.txt
+2025-07-12 20:48:53 - INFO - Modified: file8.txt
+2025-07-12 20:48:53 - INFO - Created: file12.txt
+2025-07-12 20:48:53 - INFO - Modified: file12.txt
+2025-07-12 20:48:53 - INFO - Modified: file_8.txt
+2025-07-12 20:48:53 - INFO - Modified: file_0.txt
+2025-07-12 20:48:53 - INFO - Modified: file_1.txt
+2025-07-12 20:48:53 - INFO - Created: filej.txt
+2025-07-12 20:48:53 - INFO - Modified: filej.txt
+2025-07-12 20:48:53 - INFO - Modified: example.txt
+2025-07-12 20:48:53 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-12 20:48:53 - INFO - Modified: file_6.txt
+2025-07-12 20:48:53 - INFO - Created: file13.txt
+2025-07-12 20:48:53 - INFO - Modified: file13.txt
+2025-07-12 20:48:53 - INFO - Modified: file_13.txt
+2025-07-12 20:48:53 - INFO - Created: dummy.exe
+2025-07-12 20:48:53 - INFO - Modified: dummy.exe
+2025-07-12 20:48:53 - INFO - Created: file4.txt
+2025-07-12 20:48:54 - INFO - Modified: file4.txt
+2025-07-12 20:48:54 - INFO - Modified: file_9.txt
+2025-07-12 20:48:54 - INFO - Created: file1.txt
+2025-07-12 20:48:54 - INFO - Modified: file1.txt
+2025-07-12 20:48:54 - INFO - Created: ransomware.exe
+2025-07-12 20:48:54 - INFO - Modified: ransomware.exe
+2025-07-12 20:48:54 - INFO - Created: examplee.txt
+2025-07-12 20:48:54 - INFO - Modified: examplee.txt
+2025-07-12 20:48:54 - INFO - Created: wannacry_payload.py
+2025-07-12 20:48:54 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-12 20:48:54 - INFO - Modified: wannacry_payload.py
+2025-07-12 20:48:54 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-12 20:48:54 - INFO - Created: filek.txt
+2025-07-12 20:48:54 - INFO - Modified: filek.txt
+2025-07-12 20:48:54 - INFO - Created: encryptor.exe
+2025-07-12 20:48:54 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-12 20:48:54 - INFO - Modified: encryptor.exe
+2025-07-12 20:48:54 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-12 20:48:54 - INFO - Created: file5.txt
+2025-07-12 20:48:54 - INFO - Modified: file5.txt
+2025-07-12 20:48:54 - INFO - Created: filea.txt
+2025-07-12 20:48:54 - INFO - Modified: filea.txt
+2025-07-12 20:48:54 - INFO - Created: file9.txt
+2025-07-12 20:48:54 - INFO - Modified: file9.txt
+2025-07-12 20:48:54 - INFO - Modified: file_4.txt
+2025-07-12 20:48:54 - INFO - Created: fileb.txt
+2025-07-12 20:48:54 - INFO - Modified: fileb.txt
+2025-07-12 20:48:54 - INFO - Created: filem.txt
+2025-07-12 20:48:54 - INFO - Modified: filem.txt
+2025-07-12 20:48:54 - INFO - Modified: file_7.txt
+2025-07-12 20:48:54 - INFO - Created: filed.txt
+2025-07-12 20:48:54 - INFO - Modified: filed.txt
+2025-07-12 20:48:54 - INFO - Modified: file_5.txt
+2025-07-12 20:48:54 - INFO - Created: fileg.txt
+2025-07-12 20:48:54 - INFO - Modified: fileg.txt
+2025-07-12 20:48:54 - INFO - Created: fileh.txt
+2025-07-12 20:48:54 - INFO - Modified: fileh.txt
+2025-07-12 20:48:54 - INFO - Created: file6.txt
+2025-07-12 20:48:54 - INFO - Modified: file6.txt
+2025-07-12 20:48:54 - INFO - Created: filei.txt
+2025-07-12 20:48:54 - INFO - Modified: filei.txt
+2025-07-12 20:48:54 - INFO - Created: filee.txt
+2025-07-12 20:48:54 - INFO - Modified: filee.txt
+2025-07-12 20:48:54 - INFO - Modified: file_12.txt
+2025-07-12 20:48:54 - INFO - Modified: file_14.txt
+2025-07-12 20:48:54 - INFO - Created: file14.txt
+2025-07-12 20:48:54 - INFO - Modified: file14.txt
+2025-07-12 20:48:54 - INFO - Created: filen.txt
+2025-07-12 20:48:54 - INFO - Modified: filen.txt
+2025-07-12 20:48:54 - INFO - Modified: file_2.txt
+2025-07-12 20:48:54 - INFO - Created: file7.txt
+2025-07-12 20:48:54 - INFO - Modified: file7.txt
+2025-07-12 20:48:54 - INFO - Modified: file_11.txt
+2025-07-12 20:48:54 - INFO - Created: file10.txt
+2025-07-12 20:48:54 - INFO - Modified: file10.txt
+2025-07-12 20:48:54 - INFO - Created: ransomware1.exe
+2025-07-12 20:48:54 - INFO - Modified: ransomware1.exe
+2025-07-12 20:48:54 - INFO - Modified: file_10.txt
+2025-07-12 20:48:55 - INFO - Created: file2.txt
+2025-07-12 20:48:55 - INFO - Modified: file2.txt
+2025-07-12 20:48:55 - INFO - Created: filef.txt
+2025-07-12 20:48:55 - INFO - Modified: filef.txt
+2025-07-12 20:48:55 - INFO - Created: filel.txt
+2025-07-12 20:48:55 - INFO - Modified: filel.txt
+2025-07-12 20:48:55 - INFO - Created: filec.txt
+2025-07-12 20:48:55 - INFO - Modified: filec.txt
+2025-07-12 20:48:55 - INFO - Created: file11.txt
+2025-07-12 20:48:55 - INFO - Modified: file11.txt
+2025-07-12 20:48:55 - INFO - Created: file3.txt
+2025-07-12 20:48:55 - INFO - Modified: file3.txt
