@@ -39,19 +39,6 @@ To validate the system, a ransomware simulator script is included that:
 
 ---
 
-## 🚀 Why This Matters
-
-- **Portfolio-Ready:**  
-  Real-time defense, automation, and recovery — all demonstrated on actual files, not theory.
-
-- **Recruiter-Friendly:**  
-  Clear evidence of system-level thinking, cybersecurity application, and automation.
-
-- **Performance-Conscious:**  
-  Designed to run on modest hardware (e.g., 4–6GB RAM), making it practical for real-world use.
-
----
-
 > 💡 *Future Enhancements (Planned):*  
 > AI-based anomaly detection, network isolation, cloud backup integration, web dashboard, Docker deployment.
 
