@@ -1,4 +1,8 @@
 # 🛡️ Adaptive Ransomware Defense System
+![GitHub last commit](https://img.shields.io/github/last-commit/jhapalizzz/adaptive-ransomware-defense)
+![GitHub issues](https://img.shields.io/github/issues/jhapalizzz/adaptive-ransomware-defense)
+![GitHub stars](https://img.shields.io/github/stars/jhapalizzz/adaptive-ransomware-defense?style=social)
+
 
 A real-time, lightweight ransomware defense system that detects suspicious file behaviors, stops threats immediately, and recovers encrypted files — all with automation and minimal resource usage.
 
