@@ -2,7 +2,8 @@ import os
 import time
 
 # 🔧 Use absolute path (recommended)
-target_dir = r"C:\Users\skill\adaptive-ransomware-defense\test_dir"
+target_dir = r"C:\Users\skill\adaptive-ransomware-defense\detection\test_dir"
+
 
 # ✅ Check if directory exists
 if not os.path.exists(target_dir):

@@ -1540,3 +1540,824 @@
 2025-07-12 20:48:55 - INFO - Modified: file11.txt
 2025-07-12 20:48:55 - INFO - Created: file3.txt
 2025-07-12 20:48:55 - INFO - Modified: file3.txt
+2025-07-13 11:43:41 - INFO - Renamed: from encryptor.exe to locked_0.enc
+2025-07-13 11:43:41 - INFO - Modified: locked_0.enc
+2025-07-13 11:43:41 - INFO - Renamed: from example.txt to locked_1.enc
+2025-07-13 11:43:41 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 11:43:41 - WARNING - Threat Detected: Hash match: locked_1.enc
+2025-07-13 11:43:41 - INFO - Modified: locked_1.enc
+2025-07-13 11:43:41 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 11:43:43 - INFO - Renamed: from wannacry_payload.py to locked_2.enc
+2025-07-13 11:43:43 - INFO - Modified: locked_2.enc
+2025-07-13 11:52:25 - INFO - Renamed: from example.txt to locked_0.enc
+2025-07-13 11:52:25 - INFO - Renamed: from ransomware.exe to locked_1.enc
+2025-07-13 11:52:25 - INFO - Renamed: from wannacry.txt to locked_2.enc
+2025-07-13 11:59:00 - INFO - Deleted: locked_2.enc
+2025-07-13 11:59:00 - INFO - Deleted: locked_1.enc
+2025-07-13 11:59:01 - INFO - Deleted: locked_0.enc
+2025-07-13 12:41:15 - INFO - Renamed: from dummy.txt to locked_0.enc
+2025-07-13 12:41:16 - INFO - Renamed: from encryptor.exe to locked_1.enc
+2025-07-13 12:41:16 - INFO - Renamed: from wannacry_payload.py to locked_2.enc
+2025-07-13 12:50:24 - INFO - Deleted: locked_0.enc
+2025-07-13 12:50:24 - INFO - Deleted: locked_1.enc
+2025-07-13 12:50:24 - INFO - Deleted: locked_2.enc
+2025-07-13 12:50:24 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-13 12:50:24 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-13 12:50:25 - INFO - Starting file recovery from backups...
+2025-07-13 12:50:25 - INFO - Restored backup ff4f4b91e42fc47ea3644d9adc2bad18_20250712204853.bak to test_dir\file_3.txt
+2025-07-13 12:50:25 - INFO - Restored backup fe5c7909d5f81a608145fc151531374d_20250712204853.bak to test_dir\file8.txt
+2025-07-13 12:50:25 - INFO - Restored backup f9d804d1d604131dcb2127440f8f7e22_20250712204853.bak to test_dir\file12.txt
+2025-07-13 12:50:25 - WARNING - Missing 'original_name' in metadata for f9d804d1d604131dcb2127440f8f7e22_20250707153415.bak, skipping.
+2025-07-13 12:50:25 - INFO - Restored backup f115c5657bf98c8b21323b37b8f23306_20250712204853.bak to test_dir\file_8.txt
+2025-07-13 12:50:25 - INFO - Restored backup ef1620bfe7ca4aa093208f5aaa934746_20250712204853.bak to test_dir\file_0.txt
+2025-07-13 12:50:25 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak, skipping.
+2025-07-13 12:50:25 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak, skipping.
+2025-07-13 12:50:25 - INFO - Restored backup ee0dfbcd14a1b0f3e4f45206c28464cb_20250712204853.bak to test_dir\file_1.txt
+2025-07-13 12:50:25 - INFO - Restored backup eac52acd6466b8becffb0d2aa28a7548_20250712204853.bak to test_dir\filej.txt
+2025-07-13 12:50:26 - WARNING - Missing 'original_name' in metadata for eac52acd6466b8becffb0d2aa28a7548_20250707153423.bak, skipping.
+2025-07-13 12:50:26 - INFO - Restored backup e76faa0543e007be095bb52982802abe_20250712204853.bak to test_dir\example.txt
+2025-07-13 12:50:26 - INFO - Restored backup e5909f79f9bac0ea7da7a9fc98a39ad6_20250712204853.bak to test_dir\file_6.txt
+2025-07-13 12:50:26 - INFO - Restored backup e14ddee2b2577df3f31576c9671e967f_20250712204853.bak to test_dir\file13.txt
+2025-07-13 12:50:26 - WARNING - Missing 'original_name' in metadata for e14ddee2b2577df3f31576c9671e967f_20250707153415.bak, skipping.
+2025-07-13 12:50:26 - INFO - Restored backup d6cb47fe6fb927ef32a677eb86294081_20250712204853.bak to test_dir\file_13.txt
+2025-07-13 12:50:26 - INFO - Restored backup d2bb4a2a78989402b1f4ae958f912cf1_20250712204853.bak to test_dir\dummy.exe
+2025-07-13 12:50:26 - INFO - Restored backup c474a02b4b89880c88f06bb48c362cda_20250712204854.bak to test_dir\file4.txt
+2025-07-13 12:50:26 - INFO - Restored backup bd5575de561478ea911b375c07389ea2_20250712204854.bak to test_dir\file_9.txt
+2025-07-13 12:50:26 - INFO - Restored backup bd01856bfd2065d0d1ee20c03bd3a9af_20250712204854.bak to test_dir\file1.txt
+2025-07-13 12:50:26 - INFO - Restored backup bccfd3296ceeed245d0778db05b8cd0a_20250712204854.bak to test_dir\ransomware.exe
+2025-07-13 12:50:26 - INFO - Restored backup b3b8caad73a6f1c174a4dda05b850b84_20250713114341.bak to test_dir\locked_1.enc
+2025-07-13 12:50:26 - INFO - Restored backup ab2caad6fd24f3d6377253ae5d254fac_20250712204854.bak to test_dir\examplee.txt
+2025-07-13 12:50:26 - INFO - Restored backup a426ec6ea4db65b9055762df0041f479_20250712204854.bak to test_dir\wannacry_payload.py
+2025-07-13 12:50:27 - INFO - Restored backup a3ee756fb3dbe43b84c4f038634d9d86_20250713114343.bak to test_dir\locked_2.enc
+2025-07-13 12:50:27 - INFO - Restored backup 9fe8e26778c678671e6b3b6ce91a15e9_20250712204854.bak to test_dir\filek.txt
+2025-07-13 12:50:27 - WARNING - Missing 'original_name' in metadata for 9fe8e26778c678671e6b3b6ce91a15e9_20250707153423.bak, skipping.
+2025-07-13 12:50:27 - INFO - Restored backup 955fe2f0f2265b6813484d0583c578fd_20250712204854.bak to test_dir\encryptor.exe
+2025-07-13 12:50:27 - INFO - Restored backup 950937a257793a2c068bd13ecfcee6b3_20250712204854.bak to test_dir\file5.txt
+2025-07-13 12:50:27 - INFO - Restored backup 94d2cde97b3d47213274c5ec4ea0fb87_20250712204854.bak to test_dir\filea.txt
+2025-07-13 12:50:27 - WARNING - Missing 'original_name' in metadata for 94d2cde97b3d47213274c5ec4ea0fb87_20250707153423.bak, skipping.
+2025-07-13 12:50:27 - INFO - Restored backup 91f7f4dc63539be5a4d25fcef607983f_20250712204854.bak to test_dir\file9.txt
+2025-07-13 12:50:27 - WARNING - Missing 'original_name' in metadata for 91f7f4dc63539be5a4d25fcef607983f_20250707153415.bak, skipping.
+2025-07-13 12:50:27 - INFO - Restored backup 8f60626f03bdc682d550c19d5f8ef94d_20250712204854.bak to test_dir\file_4.txt
+2025-07-13 12:50:27 - INFO - Restored backup 8ad0b77f48296f515082a3ae930f36ee_20250712204854.bak to test_dir\fileb.txt
+2025-07-13 12:50:27 - WARNING - Missing 'original_name' in metadata for 8ad0b77f48296f515082a3ae930f36ee_20250707153423.bak, skipping.
+2025-07-13 12:50:27 - INFO - Restored backup 857052115e2202f002a73fe0225b4b4f_20250712204854.bak to test_dir\filem.txt
+2025-07-13 12:50:27 - WARNING - Missing 'original_name' in metadata for 857052115e2202f002a73fe0225b4b4f_20250707153423.bak, skipping.
+2025-07-13 12:50:27 - INFO - Restored backup 80d8fdcc39c0016b27cfa91149aef3de_20250712204854.bak to test_dir\file_7.txt
+2025-07-13 12:50:27 - INFO - Restored backup 7719a64c58825a854b0bea5c72b14e0a_20250712204854.bak to test_dir\filed.txt
+2025-07-13 12:50:27 - WARNING - Missing 'original_name' in metadata for 7719a64c58825a854b0bea5c72b14e0a_20250707153423.bak, skipping.
+2025-07-13 12:50:27 - INFO - Restored backup 7311970a411593e7017ace604142f083_20250712204854.bak to test_dir\file_5.txt
+2025-07-13 12:50:28 - INFO - Restored backup 725484327727b8fc84d33914f4f3177e_20250712204854.bak to test_dir\fileg.txt
+2025-07-13 12:50:28 - WARNING - Missing 'original_name' in metadata for 725484327727b8fc84d33914f4f3177e_20250707153423.bak, skipping.
+2025-07-13 12:50:28 - INFO - Restored backup 697b66fe82b7ec776cafe218bc6e5482_20250712204854.bak to test_dir\fileh.txt
+2025-07-13 12:50:28 - WARNING - Missing 'original_name' in metadata for 697b66fe82b7ec776cafe218bc6e5482_20250707153423.bak, skipping.
+2025-07-13 12:50:28 - INFO - Restored backup 680183fde8fdfa76b041692bce98960b_20250712204854.bak to test_dir\file6.txt
+2025-07-13 12:50:28 - WARNING - Missing 'original_name' in metadata for 680183fde8fdfa76b041692bce98960b_20250707153415.bak, skipping.
+2025-07-13 12:50:28 - INFO - Restored backup 64c598651d3b09291a73e8c0225a5e6c_20250712204854.bak to test_dir\filei.txt
+2025-07-13 12:50:28 - WARNING - Missing 'original_name' in metadata for 64c598651d3b09291a73e8c0225a5e6c_20250707153423.bak, skipping.
+2025-07-13 12:50:28 - INFO - Restored backup 5af23ec64b744e7598dee09e5ef322d9_20250712204854.bak to test_dir\filee.txt
+2025-07-13 12:50:28 - WARNING - Missing 'original_name' in metadata for 5af23ec64b744e7598dee09e5ef322d9_20250707153423.bak, skipping.
+2025-07-13 12:50:28 - INFO - Restored backup 5addf84354962fe778b5506af1837f21_20250712204854.bak to test_dir\file_12.txt
+2025-07-13 12:50:28 - INFO - Restored backup 5a127ccd0d38aae01245b236e953ca4a_20250712204854.bak to test_dir\file_14.txt
+2025-07-13 12:50:28 - INFO - Restored backup 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250712204854.bak to test_dir\file14.txt
+2025-07-13 12:50:28 - WARNING - Missing 'original_name' in metadata for 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250707153415.bak, skipping.
+2025-07-13 12:50:29 - INFO - Restored backup 4a265fad4ef011c6fedc985415cb4b59_20250712204854.bak to test_dir\filen.txt
+2025-07-13 12:50:29 - WARNING - Missing 'original_name' in metadata for 4a265fad4ef011c6fedc985415cb4b59_20250707153423.bak, skipping.
+2025-07-13 12:50:29 - INFO - Restored backup 439560b95fbf743602b2b670fa4bf34c_20250712204854.bak to test_dir\file_2.txt
+2025-07-13 12:50:29 - INFO - Restored backup 40b0c6449d424148e5ce0894a2eed5ff_20250712204854.bak to test_dir\file7.txt
+2025-07-13 12:50:29 - WARNING - Missing 'original_name' in metadata for 40b0c6449d424148e5ce0894a2eed5ff_20250707153415.bak, skipping.
+2025-07-13 12:50:29 - INFO - Restored backup 40223462a61bd78846b572315dbeccc2_20250712204854.bak to test_dir\file_11.txt
+2025-07-13 12:50:29 - INFO - Restored backup 3dc84ab42ebee79e617fd733acf38f92_20250712204854.bak to test_dir\file10.txt
+2025-07-13 12:50:29 - WARNING - Missing 'original_name' in metadata for 3dc84ab42ebee79e617fd733acf38f92_20250707153415.bak, skipping.
+2025-07-13 12:50:29 - INFO - Restored backup 3b48eb02c4eb5e544055c1d148c68076_20250713114341.bak to test_dir\locked_0.enc
+2025-07-13 12:50:29 - INFO - Restored backup 2df53195bed0c417e68fba6dcacdb3b9_20250712204854.bak to test_dir\ransomware1.exe
+2025-07-13 12:50:29 - INFO - Restored backup 29b0fe09137807032d602c10b00802e9_20250712204854.bak to test_dir\file_10.txt
+2025-07-13 12:50:29 - INFO - Restored backup 273604bfeef7126abe1f9bff1e45126c_20250712204855.bak to test_dir\file2.txt
+2025-07-13 12:50:30 - INFO - Restored backup 1883f1f9b2ac9021c3912a8a75119fc0_20250712204855.bak to test_dir\filef.txt
+2025-07-13 12:50:30 - WARNING - Missing 'original_name' in metadata for 1883f1f9b2ac9021c3912a8a75119fc0_20250707153423.bak, skipping.
+2025-07-13 12:50:30 - INFO - Restored backup 17fba291f428445f7ec51de35030f2ea_20250712204855.bak to test_dir\filel.txt
+2025-07-13 12:50:30 - WARNING - Missing 'original_name' in metadata for 17fba291f428445f7ec51de35030f2ea_20250707153423.bak, skipping.
+2025-07-13 12:50:30 - INFO - Restored backup 13468786123b11d0a2d0ef26711b4861_20250712204855.bak to test_dir\filec.txt
+2025-07-13 12:50:30 - WARNING - Missing 'original_name' in metadata for 13468786123b11d0a2d0ef26711b4861_20250707153423.bak, skipping.
+2025-07-13 12:50:30 - INFO - Restored backup 116c12524a95f384b488bac0f5497f18_20250712204855.bak to test_dir\file11.txt
+2025-07-13 12:50:30 - WARNING - Missing 'original_name' in metadata for 116c12524a95f384b488bac0f5497f18_20250707153415.bak, skipping.
+2025-07-13 12:50:30 - INFO - Restored backup 113f6696d140c167070bcc5e24791f35_20250712204855.bak to test_dir\file3.txt
+2025-07-13 12:50:30 - INFO - Recovery complete.
+2025-07-13 12:50:30 - INFO - Deleted: locked_3.enc
+2025-07-13 12:50:30 - INFO - Deleted: locked_4.enc
+2025-07-13 12:50:30 - INFO - Deleted: locked_5.enc
+2025-07-13 12:50:30 - INFO - Deleted: locked_6.enc
+2025-07-13 12:50:30 - INFO - Deleted: locked_7.enc
+2025-07-13 12:50:30 - INFO - Deleted: locked_8.enc
+2025-07-13 12:50:30 - INFO - Deleted: locked_9.enc
+2025-07-13 12:50:30 - INFO - Created: file_3.txt
+2025-07-13 12:50:30 - INFO - Modified: file_3.txt
+2025-07-13 12:50:30 - INFO - Created: file8.txt
+2025-07-13 12:50:30 - INFO - Modified: file8.txt
+2025-07-13 12:50:30 - INFO - Created: file12.txt
+2025-07-13 12:50:30 - INFO - Modified: file12.txt
+2025-07-13 12:50:30 - INFO - Created: file_8.txt
+2025-07-13 12:50:30 - INFO - Modified: file_8.txt
+2025-07-13 12:50:30 - INFO - Created: file_0.txt
+2025-07-13 12:50:30 - INFO - Modified: file_0.txt
+2025-07-13 12:50:30 - INFO - Created: file_1.txt
+2025-07-13 12:50:30 - INFO - Modified: file_1.txt
+2025-07-13 12:50:30 - INFO - Created: filej.txt
+2025-07-13 12:50:31 - INFO - Modified: filej.txt
+2025-07-13 12:50:31 - INFO - Created: example.txt
+2025-07-13 12:50:31 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 12:50:31 - INFO - Modified: example.txt
+2025-07-13 12:50:31 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 12:50:31 - INFO - Created: file_6.txt
+2025-07-13 12:50:31 - INFO - Modified: file_6.txt
+2025-07-13 12:50:31 - INFO - Created: file13.txt
+2025-07-13 12:50:31 - INFO - Modified: file13.txt
+2025-07-13 12:50:31 - INFO - Created: file_13.txt
+2025-07-13 12:50:31 - INFO - Modified: file_13.txt
+2025-07-13 12:50:31 - INFO - Created: dummy.exe
+2025-07-13 12:50:31 - INFO - Modified: dummy.exe
+2025-07-13 12:50:31 - INFO - Created: file4.txt
+2025-07-13 12:50:31 - INFO - Modified: file4.txt
+2025-07-13 12:50:31 - INFO - Created: file_9.txt
+2025-07-13 12:50:31 - INFO - Modified: file_9.txt
+2025-07-13 12:50:31 - INFO - Created: file1.txt
+2025-07-13 12:50:31 - INFO - Modified: file1.txt
+2025-07-13 12:50:31 - INFO - Created: ransomware.exe
+2025-07-13 12:50:31 - INFO - Modified: ransomware.exe
+2025-07-13 12:50:31 - INFO - Created: locked_1.enc
+2025-07-13 12:50:31 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:50:31 - INFO - Modified: locked_1.enc
+2025-07-13 12:50:31 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:50:31 - INFO - Created: examplee.txt
+2025-07-13 12:50:31 - INFO - Modified: examplee.txt
+2025-07-13 12:50:31 - INFO - Created: wannacry_payload.py
+2025-07-13 12:50:31 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 12:50:31 - INFO - Modified: wannacry_payload.py
+2025-07-13 12:50:31 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 12:50:31 - INFO - Created: locked_2.enc
+2025-07-13 12:50:31 - INFO - Modified: locked_2.enc
+2025-07-13 12:50:31 - INFO - Created: filek.txt
+2025-07-13 12:50:31 - INFO - Modified: filek.txt
+2025-07-13 12:50:31 - INFO - Created: encryptor.exe
+2025-07-13 12:50:31 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 12:50:31 - INFO - Modified: encryptor.exe
+2025-07-13 12:50:31 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 12:50:31 - INFO - Created: file5.txt
+2025-07-13 12:50:31 - INFO - Modified: file5.txt
+2025-07-13 12:50:31 - INFO - Created: filea.txt
+2025-07-13 12:50:31 - INFO - Modified: filea.txt
+2025-07-13 12:50:31 - INFO - Created: file9.txt
+2025-07-13 12:50:31 - INFO - Modified: file9.txt
+2025-07-13 12:50:31 - INFO - Created: file_4.txt
+2025-07-13 12:50:31 - INFO - Modified: file_4.txt
+2025-07-13 12:50:32 - INFO - Created: fileb.txt
+2025-07-13 12:50:32 - INFO - Modified: fileb.txt
+2025-07-13 12:50:32 - INFO - Created: filem.txt
+2025-07-13 12:50:32 - INFO - Modified: filem.txt
+2025-07-13 12:50:32 - INFO - Created: file_7.txt
+2025-07-13 12:50:32 - INFO - Modified: file_7.txt
+2025-07-13 12:50:32 - INFO - Created: filed.txt
+2025-07-13 12:50:32 - INFO - Modified: filed.txt
+2025-07-13 12:50:32 - INFO - Created: file_5.txt
+2025-07-13 12:50:32 - INFO - Modified: file_5.txt
+2025-07-13 12:50:32 - INFO - Created: fileg.txt
+2025-07-13 12:50:32 - INFO - Modified: fileg.txt
+2025-07-13 12:50:32 - INFO - Created: fileh.txt
+2025-07-13 12:50:32 - INFO - Modified: fileh.txt
+2025-07-13 12:50:32 - INFO - Created: file6.txt
+2025-07-13 12:50:32 - INFO - Modified: file6.txt
+2025-07-13 12:50:32 - INFO - Created: filei.txt
+2025-07-13 12:50:32 - INFO - Modified: filei.txt
+2025-07-13 12:50:32 - INFO - Created: filee.txt
+2025-07-13 12:50:32 - INFO - Modified: filee.txt
+2025-07-13 12:50:32 - INFO - Created: file_12.txt
+2025-07-13 12:50:32 - INFO - Modified: file_12.txt
+2025-07-13 12:50:32 - INFO - Created: file_14.txt
+2025-07-13 12:50:32 - INFO - Modified: file_14.txt
+2025-07-13 12:50:32 - INFO - Created: file14.txt
+2025-07-13 12:50:32 - INFO - Modified: file14.txt
+2025-07-13 12:50:32 - INFO - Created: filen.txt
+2025-07-13 12:50:32 - INFO - Modified: filen.txt
+2025-07-13 12:50:32 - INFO - Created: file_2.txt
+2025-07-13 12:50:32 - INFO - Modified: file_2.txt
+2025-07-13 12:50:32 - INFO - Created: file7.txt
+2025-07-13 12:50:32 - INFO - Modified: file7.txt
+2025-07-13 12:50:33 - INFO - Created: file_11.txt
+2025-07-13 12:50:33 - INFO - Modified: file_11.txt
+2025-07-13 12:50:33 - INFO - Created: file10.txt
+2025-07-13 12:50:33 - INFO - Modified: file10.txt
+2025-07-13 12:50:33 - INFO - Created: locked_0.enc
+2025-07-13 12:50:33 - INFO - Modified: locked_0.enc
+2025-07-13 12:50:33 - INFO - Created: ransomware1.exe
+2025-07-13 12:50:33 - INFO - Modified: ransomware1.exe
+2025-07-13 12:50:33 - INFO - Created: file_10.txt
+2025-07-13 12:50:33 - INFO - Modified: file_10.txt
+2025-07-13 12:50:33 - INFO - Created: file2.txt
+2025-07-13 12:50:33 - INFO - Modified: file2.txt
+2025-07-13 12:50:33 - INFO - Created: filef.txt
+2025-07-13 12:50:33 - INFO - Modified: filef.txt
+2025-07-13 12:50:33 - INFO - Created: filel.txt
+2025-07-13 12:50:33 - INFO - Modified: filel.txt
+2025-07-13 12:50:33 - INFO - Created: filec.txt
+2025-07-13 12:50:33 - INFO - Modified: filec.txt
+2025-07-13 12:50:33 - INFO - Created: file11.txt
+2025-07-13 12:50:33 - INFO - Modified: file11.txt
+2025-07-13 12:50:33 - INFO - Created: file3.txt
+2025-07-13 12:50:33 - INFO - Modified: file3.txt
+2025-07-13 12:51:41 - INFO - Deleted: locked_0.enc
+2025-07-13 12:51:41 - INFO - Deleted: locked_1.enc
+2025-07-13 12:51:41 - INFO - Deleted: locked_2.enc
+2025-07-13 12:52:41 - INFO - Modified: file_0.txt
+2025-07-13 12:52:41 - INFO - Modified: file_0.txt
+2025-07-13 12:52:41 - INFO - Modified: file_1.txt
+2025-07-13 12:52:41 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-13 12:52:41 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-13 12:52:42 - WARNING - Killed suspicious process: python.exe
+2025-07-13 12:52:42 - INFO - Starting file recovery from backups...
+2025-07-13 12:52:42 - INFO - Restored backup ff4f4b91e42fc47ea3644d9adc2bad18_20250713125030.bak to test_dir\file_3.txt
+2025-07-13 12:52:42 - INFO - Restored backup fe5c7909d5f81a608145fc151531374d_20250713125030.bak to test_dir\file8.txt
+2025-07-13 12:52:42 - INFO - Restored backup f9d804d1d604131dcb2127440f8f7e22_20250713125030.bak to test_dir\file12.txt
+2025-07-13 12:52:42 - INFO - Restored backup f115c5657bf98c8b21323b37b8f23306_20250713125030.bak to test_dir\file_8.txt
+2025-07-13 12:52:42 - INFO - Restored backup ef1620bfe7ca4aa093208f5aaa934746_20250713125241.bak to test_dir\file_0.txt
+2025-07-13 12:52:42 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak, skipping.
+2025-07-13 12:52:42 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak, skipping.
+2025-07-13 12:52:42 - INFO - Restored backup ee0dfbcd14a1b0f3e4f45206c28464cb_20250713125241.bak to test_dir\file_1.txt
+2025-07-13 12:52:42 - INFO - Restored backup eac52acd6466b8becffb0d2aa28a7548_20250713125031.bak to test_dir\filej.txt
+2025-07-13 12:52:42 - INFO - Restored backup e76faa0543e007be095bb52982802abe_20250713125031.bak to test_dir\example.txt
+2025-07-13 12:52:42 - INFO - Restored backup e5909f79f9bac0ea7da7a9fc98a39ad6_20250713125031.bak to test_dir\file_6.txt
+2025-07-13 12:52:42 - INFO - Restored backup e14ddee2b2577df3f31576c9671e967f_20250713125031.bak to test_dir\file13.txt
+2025-07-13 12:52:42 - INFO - Restored backup d6cb47fe6fb927ef32a677eb86294081_20250713125031.bak to test_dir\file_13.txt
+2025-07-13 12:52:42 - INFO - Restored backup d2bb4a2a78989402b1f4ae958f912cf1_20250713125031.bak to test_dir\dummy.exe
+2025-07-13 12:52:42 - INFO - Restored backup c474a02b4b89880c88f06bb48c362cda_20250713125031.bak to test_dir\file4.txt
+2025-07-13 12:52:42 - INFO - Restored backup bd5575de561478ea911b375c07389ea2_20250713125031.bak to test_dir\file_9.txt
+2025-07-13 12:52:42 - INFO - Restored backup bd01856bfd2065d0d1ee20c03bd3a9af_20250713125031.bak to test_dir\file1.txt
+2025-07-13 12:52:43 - INFO - Restored backup bccfd3296ceeed245d0778db05b8cd0a_20250713125031.bak to test_dir\ransomware.exe
+2025-07-13 12:52:43 - INFO - Restored backup b3b8caad73a6f1c174a4dda05b850b84_20250713125031.bak to test_dir\locked_1.enc
+2025-07-13 12:52:43 - INFO - Restored backup ab2caad6fd24f3d6377253ae5d254fac_20250713125031.bak to test_dir\examplee.txt
+2025-07-13 12:52:43 - INFO - Restored backup a426ec6ea4db65b9055762df0041f479_20250713125031.bak to test_dir\wannacry_payload.py
+2025-07-13 12:52:43 - INFO - Restored backup a3ee756fb3dbe43b84c4f038634d9d86_20250713125031.bak to test_dir\locked_2.enc
+2025-07-13 12:52:43 - INFO - Restored backup 9fe8e26778c678671e6b3b6ce91a15e9_20250713125031.bak to test_dir\filek.txt
+2025-07-13 12:52:43 - INFO - Restored backup 955fe2f0f2265b6813484d0583c578fd_20250713125031.bak to test_dir\encryptor.exe
+2025-07-13 12:52:43 - INFO - Restored backup 950937a257793a2c068bd13ecfcee6b3_20250713125031.bak to test_dir\file5.txt
+2025-07-13 12:52:43 - INFO - Restored backup 94d2cde97b3d47213274c5ec4ea0fb87_20250713125031.bak to test_dir\filea.txt
+2025-07-13 12:52:43 - INFO - Restored backup 91f7f4dc63539be5a4d25fcef607983f_20250713125031.bak to test_dir\file9.txt
+2025-07-13 12:52:43 - INFO - Restored backup 8f60626f03bdc682d550c19d5f8ef94d_20250713125031.bak to test_dir\file_4.txt
+2025-07-13 12:52:43 - INFO - Restored backup 8ad0b77f48296f515082a3ae930f36ee_20250713125032.bak to test_dir\fileb.txt
+2025-07-13 12:52:43 - INFO - Restored backup 857052115e2202f002a73fe0225b4b4f_20250713125032.bak to test_dir\filem.txt
+2025-07-13 12:52:43 - INFO - Restored backup 80d8fdcc39c0016b27cfa91149aef3de_20250713125032.bak to test_dir\file_7.txt
+2025-07-13 12:52:43 - INFO - Restored backup 7719a64c58825a854b0bea5c72b14e0a_20250713125032.bak to test_dir\filed.txt
+2025-07-13 12:52:43 - INFO - Restored backup 7311970a411593e7017ace604142f083_20250713125032.bak to test_dir\file_5.txt
+2025-07-13 12:52:43 - INFO - Restored backup 725484327727b8fc84d33914f4f3177e_20250713125032.bak to test_dir\fileg.txt
+2025-07-13 12:52:43 - INFO - Restored backup 697b66fe82b7ec776cafe218bc6e5482_20250713125032.bak to test_dir\fileh.txt
+2025-07-13 12:52:43 - INFO - Restored backup 680183fde8fdfa76b041692bce98960b_20250713125032.bak to test_dir\file6.txt
+2025-07-13 12:52:43 - INFO - Restored backup 64c598651d3b09291a73e8c0225a5e6c_20250713125032.bak to test_dir\filei.txt
+2025-07-13 12:52:43 - INFO - Restored backup 5af23ec64b744e7598dee09e5ef322d9_20250713125032.bak to test_dir\filee.txt
+2025-07-13 12:52:43 - INFO - Restored backup 5addf84354962fe778b5506af1837f21_20250713125032.bak to test_dir\file_12.txt
+2025-07-13 12:52:43 - INFO - Restored backup 5a127ccd0d38aae01245b236e953ca4a_20250713125032.bak to test_dir\file_14.txt
+2025-07-13 12:52:43 - INFO - Restored backup 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250713125032.bak to test_dir\file14.txt
+2025-07-13 12:52:43 - INFO - Restored backup 4a265fad4ef011c6fedc985415cb4b59_20250713125032.bak to test_dir\filen.txt
+2025-07-13 12:52:43 - INFO - Restored backup 439560b95fbf743602b2b670fa4bf34c_20250713125032.bak to test_dir\file_2.txt
+2025-07-13 12:52:43 - INFO - Restored backup 40b0c6449d424148e5ce0894a2eed5ff_20250713125032.bak to test_dir\file7.txt
+2025-07-13 12:52:43 - INFO - Restored backup 40223462a61bd78846b572315dbeccc2_20250713125033.bak to test_dir\file_11.txt
+2025-07-13 12:52:43 - INFO - Restored backup 3dc84ab42ebee79e617fd733acf38f92_20250713125033.bak to test_dir\file10.txt
+2025-07-13 12:52:43 - INFO - Restored backup 3b48eb02c4eb5e544055c1d148c68076_20250713125033.bak to test_dir\locked_0.enc
+2025-07-13 12:52:43 - INFO - Restored backup 2df53195bed0c417e68fba6dcacdb3b9_20250713125033.bak to test_dir\ransomware1.exe
+2025-07-13 12:52:43 - INFO - Restored backup 29b0fe09137807032d602c10b00802e9_20250713125033.bak to test_dir\file_10.txt
+2025-07-13 12:52:43 - INFO - Restored backup 273604bfeef7126abe1f9bff1e45126c_20250713125033.bak to test_dir\file2.txt
+2025-07-13 12:52:43 - INFO - Restored backup 1883f1f9b2ac9021c3912a8a75119fc0_20250713125033.bak to test_dir\filef.txt
+2025-07-13 12:52:43 - INFO - Restored backup 17fba291f428445f7ec51de35030f2ea_20250713125033.bak to test_dir\filel.txt
+2025-07-13 12:52:43 - INFO - Restored backup 13468786123b11d0a2d0ef26711b4861_20250713125033.bak to test_dir\filec.txt
+2025-07-13 12:52:43 - INFO - Restored backup 116c12524a95f384b488bac0f5497f18_20250713125033.bak to test_dir\file11.txt
+2025-07-13 12:52:43 - INFO - Restored backup 113f6696d140c167070bcc5e24791f35_20250713125033.bak to test_dir\file3.txt
+2025-07-13 12:52:43 - INFO - Recovery complete.
+2025-07-13 12:52:43 - INFO - Modified: file_1.txt
+2025-07-13 12:52:43 - INFO - Modified: file_3.txt
+2025-07-13 12:52:43 - INFO - Modified: file8.txt
+2025-07-13 12:52:43 - INFO - Modified: file12.txt
+2025-07-13 12:52:43 - INFO - Modified: file_8.txt
+2025-07-13 12:52:43 - INFO - Modified: file_0.txt
+2025-07-13 12:52:43 - INFO - Modified: file_1.txt
+2025-07-13 12:52:43 - INFO - Modified: filej.txt
+2025-07-13 12:52:43 - INFO - Modified: example.txt
+2025-07-13 12:52:43 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 12:52:43 - INFO - Modified: file_6.txt
+2025-07-13 12:52:43 - INFO - Modified: file13.txt
+2025-07-13 12:52:43 - INFO - Modified: file_13.txt
+2025-07-13 12:52:43 - INFO - Modified: dummy.exe
+2025-07-13 12:52:43 - INFO - Modified: file4.txt
+2025-07-13 12:52:43 - INFO - Modified: file_9.txt
+2025-07-13 12:52:43 - INFO - Modified: file1.txt
+2025-07-13 12:52:43 - INFO - Modified: ransomware.exe
+2025-07-13 12:52:43 - INFO - Created: locked_1.enc
+2025-07-13 12:52:43 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:52:43 - INFO - Modified: locked_1.enc
+2025-07-13 12:52:43 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:52:43 - INFO - Modified: examplee.txt
+2025-07-13 12:52:43 - INFO - Modified: wannacry_payload.py
+2025-07-13 12:52:43 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 12:52:44 - INFO - Created: locked_2.enc
+2025-07-13 12:52:44 - INFO - Modified: locked_2.enc
+2025-07-13 12:52:44 - INFO - Modified: filek.txt
+2025-07-13 12:52:44 - INFO - Modified: encryptor.exe
+2025-07-13 12:52:44 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 12:52:44 - INFO - Modified: file5.txt
+2025-07-13 12:52:44 - INFO - Modified: filea.txt
+2025-07-13 12:52:44 - INFO - Modified: file9.txt
+2025-07-13 12:52:44 - INFO - Modified: file_4.txt
+2025-07-13 12:52:44 - INFO - Modified: fileb.txt
+2025-07-13 12:52:44 - INFO - Modified: filem.txt
+2025-07-13 12:52:44 - INFO - Modified: file_7.txt
+2025-07-13 12:52:44 - INFO - Modified: filed.txt
+2025-07-13 12:52:44 - INFO - Modified: file_5.txt
+2025-07-13 12:52:44 - INFO - Modified: fileg.txt
+2025-07-13 12:52:44 - INFO - Modified: fileh.txt
+2025-07-13 12:52:44 - INFO - Modified: file6.txt
+2025-07-13 12:52:44 - INFO - Modified: filei.txt
+2025-07-13 12:52:44 - INFO - Modified: filee.txt
+2025-07-13 12:52:44 - INFO - Modified: file_12.txt
+2025-07-13 12:52:44 - INFO - Modified: file_14.txt
+2025-07-13 12:52:44 - INFO - Modified: file14.txt
+2025-07-13 12:52:44 - INFO - Modified: filen.txt
+2025-07-13 12:52:44 - INFO - Modified: file_2.txt
+2025-07-13 12:52:44 - INFO - Modified: file7.txt
+2025-07-13 12:52:44 - INFO - Modified: file_11.txt
+2025-07-13 12:52:44 - INFO - Modified: file10.txt
+2025-07-13 12:52:44 - INFO - Created: locked_0.enc
+2025-07-13 12:52:44 - INFO - Modified: locked_0.enc
+2025-07-13 12:52:44 - INFO - Modified: ransomware1.exe
+2025-07-13 12:52:44 - INFO - Modified: file_10.txt
+2025-07-13 12:52:44 - INFO - Modified: file2.txt
+2025-07-13 12:52:44 - INFO - Modified: filef.txt
+2025-07-13 12:52:44 - INFO - Modified: filel.txt
+2025-07-13 12:52:44 - INFO - Modified: filec.txt
+2025-07-13 12:52:44 - INFO - Modified: file11.txt
+2025-07-13 12:52:44 - INFO - Modified: file3.txt
+2025-07-13 12:54:01 - INFO - Modified: file_0.txt
+2025-07-13 12:54:01 - INFO - Modified: file_0.txt
+2025-07-13 12:54:01 - INFO - Modified: file_1.txt
+2025-07-13 12:54:01 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-13 12:54:01 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-13 12:54:02 - WARNING - Killed suspicious process: python.exe
+2025-07-13 12:54:02 - INFO - Starting file recovery from backups...
+2025-07-13 12:54:02 - INFO - Restored backup ff4f4b91e42fc47ea3644d9adc2bad18_20250713125243.bak to test_dir\file_3.txt
+2025-07-13 12:54:02 - INFO - Restored backup fe5c7909d5f81a608145fc151531374d_20250713125243.bak to test_dir\file8.txt
+2025-07-13 12:54:02 - INFO - Restored backup f9d804d1d604131dcb2127440f8f7e22_20250713125243.bak to test_dir\file12.txt
+2025-07-13 12:54:02 - INFO - Restored backup f115c5657bf98c8b21323b37b8f23306_20250713125243.bak to test_dir\file_8.txt
+2025-07-13 12:54:02 - INFO - Restored backup ef1620bfe7ca4aa093208f5aaa934746_20250713125401.bak to test_dir\file_0.txt
+2025-07-13 12:54:02 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak, skipping.
+2025-07-13 12:54:02 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak, skipping.
+2025-07-13 12:54:02 - INFO - Restored backup ee0dfbcd14a1b0f3e4f45206c28464cb_20250713125401.bak to test_dir\file_1.txt
+2025-07-13 12:54:02 - INFO - Restored backup eac52acd6466b8becffb0d2aa28a7548_20250713125243.bak to test_dir\filej.txt
+2025-07-13 12:54:02 - INFO - Restored backup e76faa0543e007be095bb52982802abe_20250713125243.bak to test_dir\example.txt
+2025-07-13 12:54:02 - INFO - Restored backup e5909f79f9bac0ea7da7a9fc98a39ad6_20250713125243.bak to test_dir\file_6.txt
+2025-07-13 12:54:03 - INFO - Restored backup e14ddee2b2577df3f31576c9671e967f_20250713125243.bak to test_dir\file13.txt
+2025-07-13 12:54:03 - INFO - Restored backup d6cb47fe6fb927ef32a677eb86294081_20250713125243.bak to test_dir\file_13.txt
+2025-07-13 12:54:03 - INFO - Restored backup d2bb4a2a78989402b1f4ae958f912cf1_20250713125243.bak to test_dir\dummy.exe
+2025-07-13 12:54:03 - INFO - Restored backup c474a02b4b89880c88f06bb48c362cda_20250713125243.bak to test_dir\file4.txt
+2025-07-13 12:54:03 - INFO - Restored backup bd5575de561478ea911b375c07389ea2_20250713125243.bak to test_dir\file_9.txt
+2025-07-13 12:54:03 - INFO - Restored backup bd01856bfd2065d0d1ee20c03bd3a9af_20250713125243.bak to test_dir\file1.txt
+2025-07-13 12:54:03 - INFO - Restored backup bccfd3296ceeed245d0778db05b8cd0a_20250713125243.bak to test_dir\ransomware.exe
+2025-07-13 12:54:03 - INFO - Restored backup b3b8caad73a6f1c174a4dda05b850b84_20250713125243.bak to test_dir\locked_1.enc
+2025-07-13 12:54:03 - INFO - Restored backup ab2caad6fd24f3d6377253ae5d254fac_20250713125243.bak to test_dir\examplee.txt
+2025-07-13 12:54:03 - INFO - Restored backup a426ec6ea4db65b9055762df0041f479_20250713125243.bak to test_dir\wannacry_payload.py
+2025-07-13 12:54:03 - INFO - Restored backup a3ee756fb3dbe43b84c4f038634d9d86_20250713125244.bak to test_dir\locked_2.enc
+2025-07-13 12:54:03 - INFO - Restored backup 9fe8e26778c678671e6b3b6ce91a15e9_20250713125244.bak to test_dir\filek.txt
+2025-07-13 12:54:03 - INFO - Restored backup 955fe2f0f2265b6813484d0583c578fd_20250713125244.bak to test_dir\encryptor.exe
+2025-07-13 12:54:03 - INFO - Restored backup 950937a257793a2c068bd13ecfcee6b3_20250713125244.bak to test_dir\file5.txt
+2025-07-13 12:54:03 - INFO - Restored backup 94d2cde97b3d47213274c5ec4ea0fb87_20250713125244.bak to test_dir\filea.txt
+2025-07-13 12:54:03 - INFO - Restored backup 91f7f4dc63539be5a4d25fcef607983f_20250713125244.bak to test_dir\file9.txt
+2025-07-13 12:54:03 - INFO - Restored backup 8f60626f03bdc682d550c19d5f8ef94d_20250713125244.bak to test_dir\file_4.txt
+2025-07-13 12:54:03 - INFO - Restored backup 8ad0b77f48296f515082a3ae930f36ee_20250713125244.bak to test_dir\fileb.txt
+2025-07-13 12:54:03 - INFO - Restored backup 857052115e2202f002a73fe0225b4b4f_20250713125244.bak to test_dir\filem.txt
+2025-07-13 12:54:03 - INFO - Restored backup 80d8fdcc39c0016b27cfa91149aef3de_20250713125244.bak to test_dir\file_7.txt
+2025-07-13 12:54:03 - INFO - Restored backup 7719a64c58825a854b0bea5c72b14e0a_20250713125244.bak to test_dir\filed.txt
+2025-07-13 12:54:03 - INFO - Restored backup 7311970a411593e7017ace604142f083_20250713125244.bak to test_dir\file_5.txt
+2025-07-13 12:54:03 - INFO - Restored backup 725484327727b8fc84d33914f4f3177e_20250713125244.bak to test_dir\fileg.txt
+2025-07-13 12:54:03 - INFO - Restored backup 697b66fe82b7ec776cafe218bc6e5482_20250713125244.bak to test_dir\fileh.txt
+2025-07-13 12:54:03 - INFO - Restored backup 680183fde8fdfa76b041692bce98960b_20250713125244.bak to test_dir\file6.txt
+2025-07-13 12:54:03 - INFO - Restored backup 64c598651d3b09291a73e8c0225a5e6c_20250713125244.bak to test_dir\filei.txt
+2025-07-13 12:54:03 - INFO - Restored backup 5af23ec64b744e7598dee09e5ef322d9_20250713125244.bak to test_dir\filee.txt
+2025-07-13 12:54:03 - INFO - Restored backup 5addf84354962fe778b5506af1837f21_20250713125244.bak to test_dir\file_12.txt
+2025-07-13 12:54:03 - INFO - Restored backup 5a127ccd0d38aae01245b236e953ca4a_20250713125244.bak to test_dir\file_14.txt
+2025-07-13 12:54:03 - INFO - Restored backup 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250713125244.bak to test_dir\file14.txt
+2025-07-13 12:54:03 - INFO - Restored backup 4a265fad4ef011c6fedc985415cb4b59_20250713125244.bak to test_dir\filen.txt
+2025-07-13 12:54:03 - INFO - Restored backup 439560b95fbf743602b2b670fa4bf34c_20250713125244.bak to test_dir\file_2.txt
+2025-07-13 12:54:03 - INFO - Restored backup 40b0c6449d424148e5ce0894a2eed5ff_20250713125244.bak to test_dir\file7.txt
+2025-07-13 12:54:03 - INFO - Restored backup 40223462a61bd78846b572315dbeccc2_20250713125244.bak to test_dir\file_11.txt
+2025-07-13 12:54:03 - INFO - Restored backup 3dc84ab42ebee79e617fd733acf38f92_20250713125244.bak to test_dir\file10.txt
+2025-07-13 12:54:03 - INFO - Restored backup 3b48eb02c4eb5e544055c1d148c68076_20250713125244.bak to test_dir\locked_0.enc
+2025-07-13 12:54:03 - INFO - Restored backup 2df53195bed0c417e68fba6dcacdb3b9_20250713125244.bak to test_dir\ransomware1.exe
+2025-07-13 12:54:03 - INFO - Restored backup 29b0fe09137807032d602c10b00802e9_20250713125244.bak to test_dir\file_10.txt
+2025-07-13 12:54:03 - INFO - Restored backup 273604bfeef7126abe1f9bff1e45126c_20250713125244.bak to test_dir\file2.txt
+2025-07-13 12:54:03 - INFO - Restored backup 1883f1f9b2ac9021c3912a8a75119fc0_20250713125244.bak to test_dir\filef.txt
+2025-07-13 12:54:03 - INFO - Restored backup 17fba291f428445f7ec51de35030f2ea_20250713125244.bak to test_dir\filel.txt
+2025-07-13 12:54:03 - INFO - Restored backup 13468786123b11d0a2d0ef26711b4861_20250713125244.bak to test_dir\filec.txt
+2025-07-13 12:54:03 - INFO - Restored backup 116c12524a95f384b488bac0f5497f18_20250713125244.bak to test_dir\file11.txt
+2025-07-13 12:54:03 - INFO - Restored backup 113f6696d140c167070bcc5e24791f35_20250713125244.bak to test_dir\file3.txt
+2025-07-13 12:54:03 - INFO - Recovery complete.
+2025-07-13 12:54:04 - INFO - Modified: file_1.txt
+2025-07-13 12:54:04 - INFO - Modified: file_3.txt
+2025-07-13 12:54:04 - INFO - Modified: file8.txt
+2025-07-13 12:54:04 - INFO - Modified: file12.txt
+2025-07-13 12:54:04 - INFO - Modified: file_8.txt
+2025-07-13 12:54:04 - INFO - Modified: file_0.txt
+2025-07-13 12:54:04 - INFO - Modified: file_1.txt
+2025-07-13 12:54:04 - INFO - Modified: filej.txt
+2025-07-13 12:54:04 - INFO - Modified: example.txt
+2025-07-13 12:54:04 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 12:54:04 - INFO - Modified: file_6.txt
+2025-07-13 12:54:04 - INFO - Modified: file13.txt
+2025-07-13 12:54:04 - INFO - Modified: file_13.txt
+2025-07-13 12:54:04 - INFO - Modified: dummy.exe
+2025-07-13 12:54:04 - INFO - Modified: file4.txt
+2025-07-13 12:54:04 - INFO - Modified: file_9.txt
+2025-07-13 12:54:04 - INFO - Modified: file1.txt
+2025-07-13 12:54:04 - INFO - Modified: ransomware.exe
+2025-07-13 12:54:04 - INFO - Modified: locked_1.enc
+2025-07-13 12:54:04 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:54:04 - INFO - Modified: examplee.txt
+2025-07-13 12:54:04 - INFO - Modified: wannacry_payload.py
+2025-07-13 12:54:04 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 12:54:04 - INFO - Modified: locked_2.enc
+2025-07-13 12:54:04 - INFO - Modified: filek.txt
+2025-07-13 12:54:04 - INFO - Modified: encryptor.exe
+2025-07-13 12:54:04 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 12:54:04 - INFO - Modified: file5.txt
+2025-07-13 12:54:04 - INFO - Modified: filea.txt
+2025-07-13 12:54:04 - INFO - Modified: file9.txt
+2025-07-13 12:54:04 - INFO - Modified: file_4.txt
+2025-07-13 12:54:04 - INFO - Modified: fileb.txt
+2025-07-13 12:54:04 - INFO - Modified: filem.txt
+2025-07-13 12:54:04 - INFO - Modified: file_7.txt
+2025-07-13 12:54:04 - INFO - Modified: filed.txt
+2025-07-13 12:54:04 - INFO - Modified: file_5.txt
+2025-07-13 12:54:04 - INFO - Modified: fileg.txt
+2025-07-13 12:54:04 - INFO - Modified: fileh.txt
+2025-07-13 12:54:04 - INFO - Modified: file6.txt
+2025-07-13 12:54:04 - INFO - Modified: filei.txt
+2025-07-13 12:54:04 - INFO - Modified: filee.txt
+2025-07-13 12:54:04 - INFO - Modified: file_12.txt
+2025-07-13 12:54:04 - INFO - Modified: file_14.txt
+2025-07-13 12:54:04 - INFO - Modified: file14.txt
+2025-07-13 12:54:04 - INFO - Modified: filen.txt
+2025-07-13 12:54:04 - INFO - Modified: file_2.txt
+2025-07-13 12:54:04 - INFO - Modified: file7.txt
+2025-07-13 12:54:04 - INFO - Modified: file_11.txt
+2025-07-13 12:54:04 - INFO - Modified: file10.txt
+2025-07-13 12:54:04 - INFO - Modified: locked_0.enc
+2025-07-13 12:54:04 - INFO - Modified: ransomware1.exe
+2025-07-13 12:54:04 - INFO - Modified: file_10.txt
+2025-07-13 12:54:04 - INFO - Modified: file2.txt
+2025-07-13 12:54:04 - INFO - Modified: filef.txt
+2025-07-13 12:54:04 - INFO - Modified: filel.txt
+2025-07-13 12:54:04 - INFO - Modified: filec.txt
+2025-07-13 12:54:04 - INFO - Modified: file11.txt
+2025-07-13 12:54:04 - INFO - Modified: file3.txt
+2025-07-13 12:58:44 - INFO - Created: file_0.txt
+2025-07-13 12:58:44 - INFO - Modified: file_0.txt
+2025-07-13 12:58:45 - INFO - Created: file_1.txt
+2025-07-13 12:58:45 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-13 12:58:45 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-13 12:58:45 - WARNING - Killed suspicious process: python.exe
+2025-07-13 12:58:45 - INFO - Starting file recovery from backups...
+2025-07-13 12:58:45 - INFO - Restored backup ff4f4b91e42fc47ea3644d9adc2bad18_20250713125404.bak to test_dir\file_3.txt
+2025-07-13 12:58:45 - INFO - Restored backup fe5c7909d5f81a608145fc151531374d_20250713125404.bak to test_dir\file8.txt
+2025-07-13 12:58:45 - INFO - Restored backup f9d804d1d604131dcb2127440f8f7e22_20250713125404.bak to test_dir\file12.txt
+2025-07-13 12:58:45 - INFO - Restored backup f115c5657bf98c8b21323b37b8f23306_20250713125404.bak to test_dir\file_8.txt
+2025-07-13 12:58:45 - INFO - Restored backup ef1620bfe7ca4aa093208f5aaa934746_20250713125844.bak to test_dir\file_0.txt
+2025-07-13 12:58:45 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak, skipping.
+2025-07-13 12:58:45 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak, skipping.
+2025-07-13 12:58:45 - INFO - Restored backup ee0dfbcd14a1b0f3e4f45206c28464cb_20250713125845.bak to test_dir\file_1.txt
+2025-07-13 12:58:45 - INFO - Restored backup eac52acd6466b8becffb0d2aa28a7548_20250713125404.bak to test_dir\filej.txt
+2025-07-13 12:58:45 - INFO - Restored backup e76faa0543e007be095bb52982802abe_20250713125404.bak to test_dir\example.txt
+2025-07-13 12:58:46 - INFO - Restored backup e5909f79f9bac0ea7da7a9fc98a39ad6_20250713125404.bak to test_dir\file_6.txt
+2025-07-13 12:58:46 - INFO - Restored backup e14ddee2b2577df3f31576c9671e967f_20250713125404.bak to test_dir\file13.txt
+2025-07-13 12:58:46 - INFO - Restored backup d6cb47fe6fb927ef32a677eb86294081_20250713125404.bak to test_dir\file_13.txt
+2025-07-13 12:58:46 - INFO - Restored backup d2bb4a2a78989402b1f4ae958f912cf1_20250713125404.bak to test_dir\dummy.exe
+2025-07-13 12:58:46 - INFO - Restored backup c474a02b4b89880c88f06bb48c362cda_20250713125404.bak to test_dir\file4.txt
+2025-07-13 12:58:46 - INFO - Restored backup bd5575de561478ea911b375c07389ea2_20250713125404.bak to test_dir\file_9.txt
+2025-07-13 12:58:46 - INFO - Restored backup bd01856bfd2065d0d1ee20c03bd3a9af_20250713125404.bak to test_dir\file1.txt
+2025-07-13 12:58:46 - INFO - Restored backup bccfd3296ceeed245d0778db05b8cd0a_20250713125404.bak to test_dir\ransomware.exe
+2025-07-13 12:58:46 - INFO - Restored backup b3b8caad73a6f1c174a4dda05b850b84_20250713125404.bak to test_dir\locked_1.enc
+2025-07-13 12:58:46 - INFO - Restored backup ab2caad6fd24f3d6377253ae5d254fac_20250713125404.bak to test_dir\examplee.txt
+2025-07-13 12:58:46 - INFO - Restored backup a426ec6ea4db65b9055762df0041f479_20250713125404.bak to test_dir\wannacry_payload.py
+2025-07-13 12:58:46 - INFO - Restored backup a3ee756fb3dbe43b84c4f038634d9d86_20250713125404.bak to test_dir\locked_2.enc
+2025-07-13 12:58:46 - INFO - Restored backup 9fe8e26778c678671e6b3b6ce91a15e9_20250713125404.bak to test_dir\filek.txt
+2025-07-13 12:58:46 - INFO - Restored backup 955fe2f0f2265b6813484d0583c578fd_20250713125404.bak to test_dir\encryptor.exe
+2025-07-13 12:58:46 - INFO - Restored backup 950937a257793a2c068bd13ecfcee6b3_20250713125404.bak to test_dir\file5.txt
+2025-07-13 12:58:46 - INFO - Restored backup 94d2cde97b3d47213274c5ec4ea0fb87_20250713125404.bak to test_dir\filea.txt
+2025-07-13 12:58:46 - INFO - Restored backup 91f7f4dc63539be5a4d25fcef607983f_20250713125404.bak to test_dir\file9.txt
+2025-07-13 12:58:46 - INFO - Restored backup 8f60626f03bdc682d550c19d5f8ef94d_20250713125404.bak to test_dir\file_4.txt
+2025-07-13 12:58:46 - INFO - Restored backup 8ad0b77f48296f515082a3ae930f36ee_20250713125404.bak to test_dir\fileb.txt
+2025-07-13 12:58:46 - INFO - Restored backup 857052115e2202f002a73fe0225b4b4f_20250713125404.bak to test_dir\filem.txt
+2025-07-13 12:58:46 - INFO - Restored backup 80d8fdcc39c0016b27cfa91149aef3de_20250713125404.bak to test_dir\file_7.txt
+2025-07-13 12:58:46 - INFO - Restored backup 7719a64c58825a854b0bea5c72b14e0a_20250713125404.bak to test_dir\filed.txt
+2025-07-13 12:58:46 - INFO - Restored backup 7311970a411593e7017ace604142f083_20250713125404.bak to test_dir\file_5.txt
+2025-07-13 12:58:46 - INFO - Restored backup 725484327727b8fc84d33914f4f3177e_20250713125404.bak to test_dir\fileg.txt
+2025-07-13 12:58:46 - INFO - Restored backup 697b66fe82b7ec776cafe218bc6e5482_20250713125404.bak to test_dir\fileh.txt
+2025-07-13 12:58:46 - INFO - Restored backup 680183fde8fdfa76b041692bce98960b_20250713125404.bak to test_dir\file6.txt
+2025-07-13 12:58:46 - INFO - Restored backup 64c598651d3b09291a73e8c0225a5e6c_20250713125404.bak to test_dir\filei.txt
+2025-07-13 12:58:46 - INFO - Restored backup 5af23ec64b744e7598dee09e5ef322d9_20250713125404.bak to test_dir\filee.txt
+2025-07-13 12:58:46 - INFO - Restored backup 5addf84354962fe778b5506af1837f21_20250713125404.bak to test_dir\file_12.txt
+2025-07-13 12:58:46 - INFO - Restored backup 5a127ccd0d38aae01245b236e953ca4a_20250713125404.bak to test_dir\file_14.txt
+2025-07-13 12:58:46 - INFO - Restored backup 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250713125404.bak to test_dir\file14.txt
+2025-07-13 12:58:46 - INFO - Restored backup 4a265fad4ef011c6fedc985415cb4b59_20250713125404.bak to test_dir\filen.txt
+2025-07-13 12:58:46 - INFO - Restored backup 439560b95fbf743602b2b670fa4bf34c_20250713125404.bak to test_dir\file_2.txt
+2025-07-13 12:58:46 - INFO - Restored backup 40b0c6449d424148e5ce0894a2eed5ff_20250713125404.bak to test_dir\file7.txt
+2025-07-13 12:58:46 - INFO - Restored backup 40223462a61bd78846b572315dbeccc2_20250713125404.bak to test_dir\file_11.txt
+2025-07-13 12:58:46 - INFO - Restored backup 3dc84ab42ebee79e617fd733acf38f92_20250713125404.bak to test_dir\file10.txt
+2025-07-13 12:58:46 - INFO - Restored backup 3b48eb02c4eb5e544055c1d148c68076_20250713125404.bak to test_dir\locked_0.enc
+2025-07-13 12:58:46 - INFO - Restored backup 2df53195bed0c417e68fba6dcacdb3b9_20250713125404.bak to test_dir\ransomware1.exe
+2025-07-13 12:58:47 - INFO - Restored backup 29b0fe09137807032d602c10b00802e9_20250713125404.bak to test_dir\file_10.txt
+2025-07-13 12:58:47 - INFO - Restored backup 273604bfeef7126abe1f9bff1e45126c_20250713125404.bak to test_dir\file2.txt
+2025-07-13 12:58:47 - INFO - Restored backup 1883f1f9b2ac9021c3912a8a75119fc0_20250713125404.bak to test_dir\filef.txt
+2025-07-13 12:58:47 - INFO - Restored backup 17fba291f428445f7ec51de35030f2ea_20250713125404.bak to test_dir\filel.txt
+2025-07-13 12:58:47 - INFO - Restored backup 13468786123b11d0a2d0ef26711b4861_20250713125404.bak to test_dir\filec.txt
+2025-07-13 12:58:47 - INFO - Restored backup 116c12524a95f384b488bac0f5497f18_20250713125404.bak to test_dir\file11.txt
+2025-07-13 12:58:47 - INFO - Restored backup 113f6696d140c167070bcc5e24791f35_20250713125404.bak to test_dir\file3.txt
+2025-07-13 12:58:47 - INFO - Recovery complete.
+2025-07-13 12:58:47 - INFO - Modified: file_1.txt
+2025-07-13 12:58:47 - INFO - Created: file_3.txt
+2025-07-13 12:58:47 - INFO - Modified: file_3.txt
+2025-07-13 12:58:47 - INFO - Created: file8.txt
+2025-07-13 12:58:47 - INFO - Modified: file8.txt
+2025-07-13 12:58:47 - INFO - Created: file12.txt
+2025-07-13 12:58:47 - INFO - Modified: file12.txt
+2025-07-13 12:58:47 - INFO - Created: file_8.txt
+2025-07-13 12:58:47 - INFO - Modified: file_8.txt
+2025-07-13 12:58:47 - INFO - Modified: file_0.txt
+2025-07-13 12:58:47 - INFO - Modified: file_1.txt
+2025-07-13 12:58:47 - INFO - Created: filej.txt
+2025-07-13 12:58:47 - INFO - Modified: filej.txt
+2025-07-13 12:58:47 - INFO - Created: example.txt
+2025-07-13 12:58:47 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 12:58:47 - INFO - Modified: example.txt
+2025-07-13 12:58:47 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 12:58:47 - INFO - Created: file_6.txt
+2025-07-13 12:58:47 - INFO - Modified: file_6.txt
+2025-07-13 12:58:47 - INFO - Created: file13.txt
+2025-07-13 12:58:47 - INFO - Modified: file13.txt
+2025-07-13 12:58:47 - INFO - Created: file_13.txt
+2025-07-13 12:58:47 - INFO - Modified: file_13.txt
+2025-07-13 12:58:47 - INFO - Created: dummy.exe
+2025-07-13 12:58:47 - INFO - Modified: dummy.exe
+2025-07-13 12:58:47 - INFO - Created: file4.txt
+2025-07-13 12:58:47 - INFO - Modified: file4.txt
+2025-07-13 12:58:47 - INFO - Created: file_9.txt
+2025-07-13 12:58:47 - INFO - Modified: file_9.txt
+2025-07-13 12:58:47 - INFO - Created: file1.txt
+2025-07-13 12:58:47 - INFO - Modified: file1.txt
+2025-07-13 12:58:47 - INFO - Created: ransomware.exe
+2025-07-13 12:58:47 - INFO - Modified: ransomware.exe
+2025-07-13 12:58:47 - INFO - Created: locked_1.enc
+2025-07-13 12:58:47 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:58:47 - INFO - Modified: locked_1.enc
+2025-07-13 12:58:47 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 12:58:47 - INFO - Created: examplee.txt
+2025-07-13 12:58:47 - INFO - Modified: examplee.txt
+2025-07-13 12:58:47 - INFO - Created: wannacry_payload.py
+2025-07-13 12:58:47 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 12:58:47 - INFO - Modified: wannacry_payload.py
+2025-07-13 12:58:47 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 12:58:47 - INFO - Created: locked_2.enc
+2025-07-13 12:58:47 - INFO - Modified: locked_2.enc
+2025-07-13 12:58:47 - INFO - Created: filek.txt
+2025-07-13 12:58:47 - INFO - Modified: filek.txt
+2025-07-13 12:58:47 - INFO - Created: encryptor.exe
+2025-07-13 12:58:47 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 12:58:47 - INFO - Modified: encryptor.exe
+2025-07-13 12:58:47 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 12:58:47 - INFO - Created: file5.txt
+2025-07-13 12:58:47 - INFO - Modified: file5.txt
+2025-07-13 12:58:47 - INFO - Created: filea.txt
+2025-07-13 12:58:47 - INFO - Modified: filea.txt
+2025-07-13 12:58:47 - INFO - Created: file9.txt
+2025-07-13 12:58:47 - INFO - Modified: file9.txt
+2025-07-13 12:58:48 - INFO - Created: file_4.txt
+2025-07-13 12:58:48 - INFO - Modified: file_4.txt
+2025-07-13 12:58:48 - INFO - Created: fileb.txt
+2025-07-13 12:58:48 - INFO - Modified: fileb.txt
+2025-07-13 12:58:48 - INFO - Created: filem.txt
+2025-07-13 12:58:48 - INFO - Modified: filem.txt
+2025-07-13 12:58:48 - INFO - Created: file_7.txt
+2025-07-13 12:58:48 - INFO - Modified: file_7.txt
+2025-07-13 12:58:48 - INFO - Created: filed.txt
+2025-07-13 12:58:48 - INFO - Modified: filed.txt
+2025-07-13 12:58:48 - INFO - Created: file_5.txt
+2025-07-13 12:58:48 - INFO - Modified: file_5.txt
+2025-07-13 12:58:48 - INFO - Created: fileg.txt
+2025-07-13 12:58:48 - INFO - Modified: fileg.txt
+2025-07-13 12:58:48 - INFO - Created: fileh.txt
+2025-07-13 12:58:48 - INFO - Modified: fileh.txt
+2025-07-13 12:58:48 - INFO - Created: file6.txt
+2025-07-13 12:58:48 - INFO - Modified: file6.txt
+2025-07-13 12:58:48 - INFO - Created: filei.txt
+2025-07-13 12:58:48 - INFO - Modified: filei.txt
+2025-07-13 12:58:48 - INFO - Created: filee.txt
+2025-07-13 12:58:48 - INFO - Modified: filee.txt
+2025-07-13 12:58:48 - INFO - Created: file_12.txt
+2025-07-13 12:58:48 - INFO - Modified: file_12.txt
+2025-07-13 12:58:48 - INFO - Created: file_14.txt
+2025-07-13 12:58:48 - INFO - Modified: file_14.txt
+2025-07-13 12:58:48 - INFO - Created: file14.txt
+2025-07-13 12:58:48 - INFO - Modified: file14.txt
+2025-07-13 12:58:48 - INFO - Created: filen.txt
+2025-07-13 12:58:48 - INFO - Modified: filen.txt
+2025-07-13 12:58:48 - INFO - Created: file_2.txt
+2025-07-13 12:58:48 - INFO - Modified: file_2.txt
+2025-07-13 12:58:48 - INFO - Created: file7.txt
+2025-07-13 12:58:48 - INFO - Modified: file7.txt
+2025-07-13 12:58:48 - INFO - Created: file_11.txt
+2025-07-13 12:58:48 - INFO - Modified: file_11.txt
+2025-07-13 12:58:48 - INFO - Created: file10.txt
+2025-07-13 12:58:48 - INFO - Modified: file10.txt
+2025-07-13 12:58:48 - INFO - Created: locked_0.enc
+2025-07-13 12:58:48 - INFO - Modified: locked_0.enc
+2025-07-13 12:58:48 - INFO - Created: ransomware1.exe
+2025-07-13 12:58:48 - INFO - Modified: ransomware1.exe
+2025-07-13 12:58:48 - INFO - Created: file_10.txt
+2025-07-13 12:58:48 - INFO - Modified: file_10.txt
+2025-07-13 12:58:48 - INFO - Created: file2.txt
+2025-07-13 12:58:48 - INFO - Modified: file2.txt
+2025-07-13 12:58:48 - INFO - Created: filef.txt
+2025-07-13 12:58:49 - INFO - Modified: filef.txt
+2025-07-13 12:58:49 - INFO - Created: filel.txt
+2025-07-13 12:58:49 - INFO - Modified: filel.txt
+2025-07-13 12:58:49 - INFO - Created: filec.txt
+2025-07-13 12:58:49 - INFO - Modified: filec.txt
+2025-07-13 12:58:49 - INFO - Created: file11.txt
+2025-07-13 12:58:49 - INFO - Modified: file11.txt
+2025-07-13 12:58:49 - INFO - Created: file3.txt
+2025-07-13 12:58:49 - INFO - Modified: file3.txt
+2025-07-13 13:08:24 - INFO - Created: file_0.txt
+2025-07-13 13:08:24 - INFO - Modified: file_0.txt
+2025-07-13 13:08:25 - INFO - Created: file_1.txt
+2025-07-13 13:08:25 - WARNING - \u26a0\ufe0f Rapid file operations detected
+2025-07-13 13:08:25 - WARNING - \u26a0\ufe0f Suspicious Activity: Potential ransomware detected!
+2025-07-13 13:08:25 - WARNING - Killed suspicious process: python.exe
+2025-07-13 13:08:25 - INFO - Starting file recovery from backups...
+2025-07-13 13:08:25 - INFO - Restored backup ff4f4b91e42fc47ea3644d9adc2bad18_20250713125847.bak to test_dir\file_3.txt
+2025-07-13 13:08:25 - INFO - Restored backup fe5c7909d5f81a608145fc151531374d_20250713125847.bak to test_dir\file8.txt
+2025-07-13 13:08:26 - INFO - Restored backup f9d804d1d604131dcb2127440f8f7e22_20250713125847.bak to test_dir\file12.txt
+2025-07-13 13:08:26 - INFO - Restored backup f115c5657bf98c8b21323b37b8f23306_20250713125847.bak to test_dir\file_8.txt
+2025-07-13 13:08:26 - INFO - Restored backup ef1620bfe7ca4aa093208f5aaa934746_20250713130824.bak to test_dir\file_0.txt
+2025-07-13 13:08:26 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154113.bak, skipping.
+2025-07-13 13:08:26 - WARNING - Missing 'original_name' in metadata for ee42d44c5dad81e09f292a095e9b5991_20250707154100.bak, skipping.
+2025-07-13 13:08:26 - INFO - Restored backup ee0dfbcd14a1b0f3e4f45206c28464cb_20250713130825.bak to test_dir\file_1.txt
+2025-07-13 13:08:26 - INFO - Restored backup eac52acd6466b8becffb0d2aa28a7548_20250713125847.bak to test_dir\filej.txt
+2025-07-13 13:08:26 - INFO - Restored backup e76faa0543e007be095bb52982802abe_20250713125847.bak to test_dir\example.txt
+2025-07-13 13:08:26 - INFO - Restored backup e5909f79f9bac0ea7da7a9fc98a39ad6_20250713125847.bak to test_dir\file_6.txt
+2025-07-13 13:08:26 - INFO - Restored backup e14ddee2b2577df3f31576c9671e967f_20250713125847.bak to test_dir\file13.txt
+2025-07-13 13:08:26 - INFO - Restored backup d6cb47fe6fb927ef32a677eb86294081_20250713125847.bak to test_dir\file_13.txt
+2025-07-13 13:08:26 - INFO - Restored backup d2bb4a2a78989402b1f4ae958f912cf1_20250713125847.bak to test_dir\dummy.exe
+2025-07-13 13:08:26 - INFO - Restored backup c474a02b4b89880c88f06bb48c362cda_20250713125847.bak to test_dir\file4.txt
+2025-07-13 13:08:26 - INFO - Restored backup bd5575de561478ea911b375c07389ea2_20250713125847.bak to test_dir\file_9.txt
+2025-07-13 13:08:26 - INFO - Restored backup bd01856bfd2065d0d1ee20c03bd3a9af_20250713125847.bak to test_dir\file1.txt
+2025-07-13 13:08:26 - INFO - Restored backup bccfd3296ceeed245d0778db05b8cd0a_20250713125847.bak to test_dir\ransomware.exe
+2025-07-13 13:08:26 - INFO - Restored backup b3b8caad73a6f1c174a4dda05b850b84_20250713125847.bak to test_dir\locked_1.enc
+2025-07-13 13:08:26 - INFO - Restored backup ab2caad6fd24f3d6377253ae5d254fac_20250713125847.bak to test_dir\examplee.txt
+2025-07-13 13:08:26 - INFO - Restored backup a426ec6ea4db65b9055762df0041f479_20250713125847.bak to test_dir\wannacry_payload.py
+2025-07-13 13:08:26 - INFO - Restored backup a3ee756fb3dbe43b84c4f038634d9d86_20250713125847.bak to test_dir\locked_2.enc
+2025-07-13 13:08:26 - INFO - Restored backup 9fe8e26778c678671e6b3b6ce91a15e9_20250713125847.bak to test_dir\filek.txt
+2025-07-13 13:08:26 - INFO - Restored backup 955fe2f0f2265b6813484d0583c578fd_20250713125847.bak to test_dir\encryptor.exe
+2025-07-13 13:08:26 - INFO - Restored backup 950937a257793a2c068bd13ecfcee6b3_20250713125847.bak to test_dir\file5.txt
+2025-07-13 13:08:26 - INFO - Restored backup 94d2cde97b3d47213274c5ec4ea0fb87_20250713125847.bak to test_dir\filea.txt
+2025-07-13 13:08:26 - INFO - Restored backup 91f7f4dc63539be5a4d25fcef607983f_20250713125847.bak to test_dir\file9.txt
+2025-07-13 13:08:26 - INFO - Restored backup 8f60626f03bdc682d550c19d5f8ef94d_20250713125848.bak to test_dir\file_4.txt
+2025-07-13 13:08:26 - INFO - Restored backup 8ad0b77f48296f515082a3ae930f36ee_20250713125848.bak to test_dir\fileb.txt
+2025-07-13 13:08:26 - INFO - Restored backup 857052115e2202f002a73fe0225b4b4f_20250713125848.bak to test_dir\filem.txt
+2025-07-13 13:08:26 - INFO - Restored backup 80d8fdcc39c0016b27cfa91149aef3de_20250713125848.bak to test_dir\file_7.txt
+2025-07-13 13:08:26 - INFO - Restored backup 7719a64c58825a854b0bea5c72b14e0a_20250713125848.bak to test_dir\filed.txt
+2025-07-13 13:08:26 - INFO - Restored backup 7311970a411593e7017ace604142f083_20250713125848.bak to test_dir\file_5.txt
+2025-07-13 13:08:26 - INFO - Restored backup 725484327727b8fc84d33914f4f3177e_20250713125848.bak to test_dir\fileg.txt
+2025-07-13 13:08:26 - INFO - Restored backup 697b66fe82b7ec776cafe218bc6e5482_20250713125848.bak to test_dir\fileh.txt
+2025-07-13 13:08:26 - INFO - Restored backup 680183fde8fdfa76b041692bce98960b_20250713125848.bak to test_dir\file6.txt
+2025-07-13 13:08:26 - INFO - Restored backup 64c598651d3b09291a73e8c0225a5e6c_20250713125848.bak to test_dir\filei.txt
+2025-07-13 13:08:26 - INFO - Restored backup 5af23ec64b744e7598dee09e5ef322d9_20250713125848.bak to test_dir\filee.txt
+2025-07-13 13:08:26 - INFO - Restored backup 5addf84354962fe778b5506af1837f21_20250713125848.bak to test_dir\file_12.txt
+2025-07-13 13:08:26 - INFO - Restored backup 5a127ccd0d38aae01245b236e953ca4a_20250713125848.bak to test_dir\file_14.txt
+2025-07-13 13:08:26 - INFO - Restored backup 568eb0dd7f5f2f0aaf40f4c97ccd9360_20250713125848.bak to test_dir\file14.txt
+2025-07-13 13:08:26 - INFO - Restored backup 4a265fad4ef011c6fedc985415cb4b59_20250713125848.bak to test_dir\filen.txt
+2025-07-13 13:08:26 - INFO - Restored backup 439560b95fbf743602b2b670fa4bf34c_20250713125848.bak to test_dir\file_2.txt
+2025-07-13 13:08:27 - INFO - Restored backup 40b0c6449d424148e5ce0894a2eed5ff_20250713125848.bak to test_dir\file7.txt
+2025-07-13 13:08:27 - INFO - Restored backup 40223462a61bd78846b572315dbeccc2_20250713125848.bak to test_dir\file_11.txt
+2025-07-13 13:08:27 - INFO - Restored backup 3dc84ab42ebee79e617fd733acf38f92_20250713125848.bak to test_dir\file10.txt
+2025-07-13 13:08:27 - INFO - Restored backup 3b48eb02c4eb5e544055c1d148c68076_20250713125848.bak to test_dir\locked_0.enc
+2025-07-13 13:08:27 - INFO - Restored backup 2df53195bed0c417e68fba6dcacdb3b9_20250713125848.bak to test_dir\ransomware1.exe
+2025-07-13 13:08:27 - INFO - Restored backup 29b0fe09137807032d602c10b00802e9_20250713125848.bak to test_dir\file_10.txt
+2025-07-13 13:08:27 - INFO - Restored backup 273604bfeef7126abe1f9bff1e45126c_20250713125848.bak to test_dir\file2.txt
+2025-07-13 13:08:27 - INFO - Restored backup 1883f1f9b2ac9021c3912a8a75119fc0_20250713125849.bak to test_dir\filef.txt
+2025-07-13 13:08:27 - INFO - Restored backup 17fba291f428445f7ec51de35030f2ea_20250713125849.bak to test_dir\filel.txt
+2025-07-13 13:08:27 - INFO - Restored backup 13468786123b11d0a2d0ef26711b4861_20250713125849.bak to test_dir\filec.txt
+2025-07-13 13:08:27 - INFO - Restored backup 116c12524a95f384b488bac0f5497f18_20250713125849.bak to test_dir\file11.txt
+2025-07-13 13:08:27 - INFO - Restored backup 113f6696d140c167070bcc5e24791f35_20250713125849.bak to test_dir\file3.txt
+2025-07-13 13:08:27 - INFO - Recovery complete.
+2025-07-13 13:08:27 - INFO - Modified: file_1.txt
+2025-07-13 13:08:27 - INFO - Created: file_2.txt
+2025-07-13 13:08:27 - INFO - Modified: file_2.txt
+2025-07-13 13:08:27 - INFO - Created: file_3.txt
+2025-07-13 13:08:27 - INFO - Modified: file_3.txt
+2025-07-13 13:08:27 - INFO - Created: file8.txt
+2025-07-13 13:08:27 - INFO - Modified: file8.txt
+2025-07-13 13:08:27 - INFO - Created: file12.txt
+2025-07-13 13:08:27 - INFO - Modified: file12.txt
+2025-07-13 13:08:27 - INFO - Created: file_8.txt
+2025-07-13 13:08:27 - INFO - Modified: file_8.txt
+2025-07-13 13:08:27 - INFO - Modified: file_0.txt
+2025-07-13 13:08:27 - INFO - Modified: file_1.txt
+2025-07-13 13:08:27 - INFO - Created: filej.txt
+2025-07-13 13:08:27 - INFO - Modified: filej.txt
+2025-07-13 13:08:27 - INFO - Created: example.txt
+2025-07-13 13:08:27 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 13:08:27 - INFO - Modified: example.txt
+2025-07-13 13:08:27 - WARNING - Threat Detected: Hash match - example.txt
+2025-07-13 13:08:27 - INFO - Created: file_6.txt
+2025-07-13 13:08:27 - INFO - Modified: file_6.txt
+2025-07-13 13:08:27 - INFO - Created: file13.txt
+2025-07-13 13:08:27 - INFO - Modified: file13.txt
+2025-07-13 13:08:27 - INFO - Created: file_13.txt
+2025-07-13 13:08:27 - INFO - Modified: file_13.txt
+2025-07-13 13:08:27 - INFO - Created: dummy.exe
+2025-07-13 13:08:27 - INFO - Modified: dummy.exe
+2025-07-13 13:08:27 - INFO - Created: file4.txt
+2025-07-13 13:08:27 - INFO - Modified: file4.txt
+2025-07-13 13:08:27 - INFO - Created: file_9.txt
+2025-07-13 13:08:27 - INFO - Modified: file_9.txt
+2025-07-13 13:08:27 - INFO - Created: file1.txt
+2025-07-13 13:08:27 - INFO - Modified: file1.txt
+2025-07-13 13:08:27 - INFO - Created: ransomware.exe
+2025-07-13 13:08:27 - INFO - Modified: ransomware.exe
+2025-07-13 13:08:27 - INFO - Modified: locked_1.enc
+2025-07-13 13:08:27 - WARNING - Threat Detected: Hash match - locked_1.enc
+2025-07-13 13:08:27 - INFO - Created: examplee.txt
+2025-07-13 13:08:27 - INFO - Modified: examplee.txt
+2025-07-13 13:08:27 - INFO - Created: wannacry_payload.py
+2025-07-13 13:08:27 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 13:08:27 - INFO - Modified: wannacry_payload.py
+2025-07-13 13:08:27 - WARNING - Threat Detected: Suspicious filename - wannacry_payload.py
+2025-07-13 13:08:27 - INFO - Modified: locked_2.enc
+2025-07-13 13:08:27 - INFO - Created: filek.txt
+2025-07-13 13:08:27 - INFO - Modified: filek.txt
+2025-07-13 13:08:27 - INFO - Created: encryptor.exe
+2025-07-13 13:08:27 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 13:08:27 - INFO - Modified: encryptor.exe
+2025-07-13 13:08:27 - WARNING - Threat Detected: Suspicious filename - encryptor.exe
+2025-07-13 13:08:27 - INFO - Created: file5.txt
+2025-07-13 13:08:27 - INFO - Modified: file5.txt
+2025-07-13 13:08:27 - INFO - Created: filea.txt
+2025-07-13 13:08:27 - INFO - Modified: filea.txt
+2025-07-13 13:08:27 - INFO - Created: file9.txt
+2025-07-13 13:08:28 - INFO - Modified: file9.txt
+2025-07-13 13:08:28 - INFO - Created: file_4.txt
+2025-07-13 13:08:28 - INFO - Modified: file_4.txt
+2025-07-13 13:08:28 - INFO - Created: fileb.txt
+2025-07-13 13:08:28 - INFO - Modified: fileb.txt
+2025-07-13 13:08:28 - INFO - Created: filem.txt
+2025-07-13 13:08:28 - INFO - Modified: filem.txt
+2025-07-13 13:08:28 - INFO - Created: file_7.txt
+2025-07-13 13:08:28 - INFO - Modified: file_7.txt
+2025-07-13 13:08:28 - INFO - Created: filed.txt
+2025-07-13 13:08:28 - INFO - Modified: filed.txt
+2025-07-13 13:08:28 - INFO - Created: file_5.txt
+2025-07-13 13:08:28 - INFO - Modified: file_5.txt
+2025-07-13 13:08:28 - INFO - Created: fileg.txt
+2025-07-13 13:08:28 - INFO - Modified: fileg.txt
+2025-07-13 13:08:28 - INFO - Created: fileh.txt
+2025-07-13 13:08:28 - INFO - Modified: fileh.txt
+2025-07-13 13:08:28 - INFO - Created: file6.txt
+2025-07-13 13:08:28 - INFO - Modified: file6.txt
+2025-07-13 13:08:28 - INFO - Created: filei.txt
+2025-07-13 13:08:28 - INFO - Modified: filei.txt
+2025-07-13 13:08:28 - INFO - Created: filee.txt
+2025-07-13 13:08:28 - INFO - Modified: filee.txt
+2025-07-13 13:08:28 - INFO - Created: file_12.txt
+2025-07-13 13:08:28 - INFO - Modified: file_12.txt
+2025-07-13 13:08:28 - INFO - Created: file_14.txt
+2025-07-13 13:08:28 - INFO - Modified: file_14.txt
+2025-07-13 13:08:28 - INFO - Created: file14.txt
+2025-07-13 13:08:28 - INFO - Modified: file14.txt
+2025-07-13 13:08:28 - INFO - Created: filen.txt
+2025-07-13 13:08:28 - INFO - Modified: filen.txt
+2025-07-13 13:08:28 - INFO - Modified: file_2.txt
+2025-07-13 13:08:28 - INFO - Created: file7.txt
+2025-07-13 13:08:28 - INFO - Modified: file7.txt
+2025-07-13 13:08:28 - INFO - Created: file_11.txt
+2025-07-13 13:08:28 - INFO - Modified: file_11.txt
+2025-07-13 13:08:28 - INFO - Created: file10.txt
+2025-07-13 13:08:28 - INFO - Modified: file10.txt
+2025-07-13 13:08:28 - INFO - Modified: locked_0.enc
+2025-07-13 13:08:28 - INFO - Created: ransomware1.exe
+2025-07-13 13:08:28 - INFO - Modified: ransomware1.exe
+2025-07-13 13:08:28 - INFO - Created: file_10.txt
+2025-07-13 13:08:28 - INFO - Modified: file_10.txt
+2025-07-13 13:08:28 - INFO - Created: file2.txt
+2025-07-13 13:08:28 - INFO - Modified: file2.txt
+2025-07-13 13:08:28 - INFO - Created: filef.txt
+2025-07-13 13:08:28 - INFO - Modified: filef.txt
+2025-07-13 13:08:28 - INFO - Created: filel.txt
+2025-07-13 13:08:28 - INFO - Modified: filel.txt
+2025-07-13 13:08:28 - INFO - Created: filec.txt
+2025-07-13 13:08:28 - INFO - Modified: filec.txt
+2025-07-13 13:08:28 - INFO - Created: file11.txt
+2025-07-13 13:08:28 - INFO - Modified: file11.txt
+2025-07-13 13:08:28 - INFO - Created: file3.txt
+2025-07-13 13:08:28 - INFO - Modified: file3.txt

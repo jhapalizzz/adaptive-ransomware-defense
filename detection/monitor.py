@@ -18,7 +18,7 @@ from playsound import playsound
 BACKUP_DIR = "../backup"
 TARGET_DIR = "test_dir"
 MAX_BACKUPS = 5
-SUSPICIOUS_THRESHOLD = 10
+SUSPICIOUS_THRESHOLD = 3
 TIME_WINDOW = 5  # seconds
 ALERT_COOLDOWN = 10  # seconds
 
@@ -220,9 +220,14 @@ class RansomwareDetector(FileSystemEventHandler):
         if not event.is_directory:
             self.handle_event(f"Deleted: {os.path.basename(event.src_path)}")
 
-    def on_moved(self, event):
-        if not event.is_directory:
-            self.handle_event(f"Renamed: from {os.path.basename(event.src_path)} to {os.path.basename(event.dest_path)}", event.dest_path)
+def on_moved(self, event):
+    if not event.is_directory:
+        self.events_window.append(time.time())  # <-- Add this line
+        self.handle_event(
+            f"Renamed: from {os.path.basename(event.src_path)} to {os.path.basename(event.dest_path)}",
+            event.dest_path
+        )
+
 
 # === Main Runner ===
 if __name__ == "__main__":
