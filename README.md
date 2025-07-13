@@ -70,3 +70,31 @@ adaptive-ransomware-defense/
 - win10toast
 - shutil / os / time
 - Sound + GUI alerting (e.g., `winsound`, `ctypes`)
+
+  
+
+## 🚀 Quick Start
+
+1. Clone this repository:
+
+git clone https://github.com/jhapalizzz/adaptive-ransomware-defense.git
+cd adaptive-ransomware-defense
+
+
+2. Install dependencies:
+
+pip install -r requirements.txt
+
+3. Run the main detection system:
+
+python monitor.py
+
+
+4. (Optional) Run the ransomware simulator to test:
+
+
+python ransomware_sim.py
+
+📝 Make sure your `test_dir/` contains sample files before simulation.
+
+```
